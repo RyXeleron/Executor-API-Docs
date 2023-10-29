@@ -285,7 +285,7 @@ return function()
 			api.context_get = getcontext
 			api.context_set = setcontext
 		else
-			api.context_get = lookup(globals(), )
+			api.context_get = lookup(globals(), "context_get") or unsupported("context_get", flags.software)
 		end
 	end
 
@@ -298,7 +298,8 @@ return function()
 			api.io_write = writefile
 			api.io_read = readfile
 			api.io_append = appendfile
-		elseif 
+		-- elseif
+		end
 	end
 
 	return api

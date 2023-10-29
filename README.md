@@ -1,5 +1,5 @@
 <p>
-  <img align="center" src="https://i.imgur.com/EKtanLb.png"></img>
+  <img align="center" src="https://x.synapse.to/_next/static/media/logo.c98810b8.svg"></img>
   <p align="center">
   <a href="http://docs.synapse.to">API Documentation</a> <b>·</b> <a href="https://github.com/LoukaMB/SynapseX/wiki">Wiki</a> <b>·</b> <a href="https://github.com/LoukaMB/SynapseX/issues">Bug Tracker</a>
   </p>
