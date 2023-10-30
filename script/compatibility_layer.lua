@@ -1,9 +1,9 @@
 -- Synapse X-Sanctioned Development Compatibility Layer (DCL)
--- https://github.com/LoukaMB/SynapseX/script/compatibility_layer.lua
--- Usage: loadstring(game:HttpGet("https://raw.githubusercontent.com/LoukaMB/SynapseX/master/script/compatibility_layer.lua"))()
+-- https://github.com/luau/Executor-API-Docs/script/compatibility_layer.lua
+-- Usage: loadstring(game:HttpGet("https://raw.githubusercontent.com/luau/Executor-API-Docs/master/script/compatibility_layer.lua"))()
 
 -- This script provides a standardized API for Lua scripts with environment extensions.
--- Definitions are written in corcondance with https://loukamb.github.io/SynapseX/
+-- Definitions are written in corcondance with https://luau.github.io/Executor-API-Docs/
 -- (Functions start with api.* instead of syn_)
 
 -- Last Update: October 22, 2019
@@ -13,15 +13,15 @@
 		Synapse X (post-Holiday update): 100%
 		Synapse X (pre-Holiday update): 98%
 		Calamari:	95%
-		ProtoSmh:	75%
+		ProtoSmasher:	75%
 		Elysian:	50%
 		SirHurt:	?
 
 		DOCUMENTATION SOURCES (to be updated regularly)
-		Calamari:	/compatibility_layer_docs/calamari_docs.html
-		ProtoSm.:	/compatibility_layer_docs/ps_docs.html
-		Elysian:	/compatibility_layer_docs/elysian_docs.html
-		Synapse:	https://loukamb.github.io/SynapseX/
+		Calamari:	https://luau.github.io/Executor-API-Docs/Calamari
+		ProtoSmasher:	https://luau.github.io/Executor-API-Docs/ProtoSmasher
+		Elysian:	https://luau.github.io/Executor-API-Docs/Elysian
+		Synapse:	https://luau.github.io/Executor-API-Docs/
 		SirHurt:	?
 
 		DISCLAIMER
