@@ -1,10 +1,14 @@
 # Executor Documentation List
 | Site | Description |
 | -: | :- |
+| [Calamari](https://luau.github.io/Executor-API-Docs/Calamari) | Official, Outdated |
 | [KRNL](https://docs.krnl.ca) | Official |
 | [KRNL](https://app.archbee.com/public/PREVIEW-2Jp4SDaAD4P1COFfx1p_t) | Unofficial |
+| [Elysian](https://luau.github.io/Executor-API-Docs/Elysian) | Official, Outdated |
 | [ProtoSmasher](https://web.archive.org/web/https://docs.protosmasher.net) | Official, Archived |
+| [ProtoSmasher](https://luau.github.io/Executor-API-Docs/ProtoSmasher) | Official, Outdated |
 | [Synapse X](https://web.archive.org/web/https://docs.synapse.to) | Official, Archived |
+| [Synapse X](https://luau.github.io/Executor-API-Docs) | Official, Outdated |
 | [Synapse X](https://synapsexdocs.github.io) | Unofficial |
 
 # No Longer Working & Archive Missing
