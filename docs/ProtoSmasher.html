@@ -1,5 +1,6 @@
 <html>
     <head>
+        <link rel="icon" type="image/x-icon" href="https://web.archive.org/https://protosmasher.net/favicon.ico">
         <title>ProtoSmasher Docs</title>
         <link href="https://fonts.googleapis.com/css?family=Encode+Sans+Semi+Expanded" rel="stylesheet"> 
         <style>
@@ -114,7 +115,7 @@
                 addDocumentation("Base", "printoutput", "void", "string text, Color3 color = Color3(1, 1, 1), bool newLine = true", "Prints the output of protosmasher, with optional formatting.");
 				addDocumentation("Base", "get_renderstep_list", "table", "<none>", "Return a table of everything thats connected to RenderStep via BindToRenderStepEarly. The table is as following: key 1 is the priority, key 2 is the name, key 3 is the function.");
 				addDocumentation("Base", "setfflag", "bool", "string flag, string value", "Set's the value of an FFlag and returns whether it was successfully set or not. Click <a href=\"https://clientsettings.api.roblox.com/Setting/QuietGet/ClientAppSettings/?apiKey=D6925E56-BFB9-4908-AAA2-A5B1EC4B2D79\">here</a> to view most if not all FFlags for the client.");
-				addDocumentation("Base", "DebuggerManager", "Object<DebuggerManager>", "<none>", "Returns the object interface for roblox's script debugger. You can view its documentation <a href=\"http://robloxdev.com/api-reference/class/DebuggerManager\">here</a>");
+				addDocumentation("Base", "DebuggerManager", "Object<DebuggerManager>", "<none>", "Returns the object interface for roblox's script debugger. You can view its documentation <a href=\"https://create.roblox.com/docs/reference/engine/classes/DebuggerManager\">here</a>");
 				addDocumentation("Base", "get_calling_script", "Object<LocalScript, ModuleScript>", "int level", "Returns the script object from the specificed stack level.");
 				addDocumentation("Base", "protect_function", "function", "function f", "Returns a proxy function that will aide in making the function undetectable via stack trace errors.");
 				addDocumentation("Base", "is_protected_closure", "bool", "function f", "Returns a boolean whether or not the function is protected. Will return false instead of erroring with C closures.");
@@ -134,7 +135,7 @@
 				addDocumentation("Base", "is_luau", "bool", "<none>", "Returns a boolean based on whether or not the current vm is LuaU.");
 				addDocumentation("Base", "get_namecall_method", "Variant<string, nil>", "<none>", "Returns the method name for use in namecall functions. Will return nil when LuaU is not enabled.");
                 addDocumentation("Base", "get_hidden_prop", "Variant", "Object inst, string property", "Allows you to get the value of properties, including ones not normally accessible by lua.<br><br>Example:<br><code>get_hidden_prop(workspace.Union, \"AssetId\") -> \"http://roblox.com/asset?id=1818\"</code>");
-                addDocumentation("Base", "http_request", "Dictionary<string, Variant>", "Dictionary options", "Functionally similar to HttpService:RequestAsync. Url parameter is required. Documentation for it can be viewed <a href=\"https://developer.roblox.com/en-us/api-reference/function/HttpService/RequestAsync\">here.</a>");
+                addDocumentation("Base", "http_request", "Dictionary<string, Variant>", "Dictionary options", "Functionally similar to HttpService:RequestAsync. Url parameter is required. Documentation for it can be viewed <a href=\"https://create.roblox.com/docs/reference/engine/classes/HttpService#RequestAsync\">here.</a>");
 				addDocumentation("Base", "ask_prompt", "int", "string title, string contents, string option1[, string option2]", "Opens a prompt in the UI with the information specificed. Can have 1 or 2 options. Return is based on what button was clicked, 1 being option 1, 2 being option 2.");
                 addDocumentation("Base", "queue_for_teleport", "Variant", "string source", "Adds the given source code to a queue, which will be executed upon teleporting. Will return false and a string when the source code has a syntax error, otherwise returns true.");
                 addDocumentation("Base", "clear_teleport_queue", "void", "<void>", "Clears the teleport execution queue.");
