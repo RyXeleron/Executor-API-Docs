@@ -1,12 +1,13 @@
 # Executor Documentation List
-| Site | Description |
-| :- | :- |
+| Site | Tags | Notes |
+| :- | :- | - |
 | [Calamari](https://luau.github.io/Executor-API-Docs/Calamari) | Official, Outdated |
 | [KRNL](https://docs.krnl.ca) | Official |
 | [KRNL](https://app.archbee.com/public/PREVIEW-2Jp4SDaAD4P1COFfx1p_t) | Unofficial |
 | [Elysian](https://luau.github.io/Executor-API-Docs/Elysian) | Official, Outdated |
 | [ProtoSmasher](https://web.archive.org/web/https://docs.protosmasher.net) | Official, Archived |
 | [ProtoSmasher](https://luau.github.io/Executor-API-Docs/ProtoSmasher) | Official, Outdated |
+| [Script-Ware](https://web.archive.org/web/20220421142618/https://docs.script-ware.com/the-script-ware-api) | Official, Archived, Outdated | Navigate through site using `Open Link in New Tab` only,<br />otherwise you might not get redirected.<br />If that still doesn't work -<br />try removing `web/allnumbers/` from the link then pressing `ENTER` |
 | [Synapse X](https://web.archive.org/web/https://docs.synapse.to) | Official, Archived |
 | [Synapse X](https://luau.github.io/Executor-API-Docs) | Official, Outdated |
 | [Synapse X](https://synapsexdocs.github.io) | Unofficial |
@@ -14,6 +15,7 @@
 
 # No Longer Working & Archive Missing
 ## Let us know if you have, find or get a working archive of any of these sites
+## That also applies to the Sites listed above with the `Archived` Tag as the archived version might not cover the full website hence why a proper & working version that we can host here instead is appreciated.
 [Here's Guide for Restoring Websites](https://wiki.archiveteam.org/index.php?title=Restoring), if you manage to fully restore a website from the list below you should open a [Pull Request](https://github.com/luau/Executor-API-Docs/pulls) to this repository with the website that you've restored, or you can just open an [Issue](https://github.com/luau/Executor-API-Docs/issues). This way we can ensure websites are safe & sound. This also allows us (you included) to make edits & fixes to the websites if we need to!
 | Site | Description |
 | -: | :- |
