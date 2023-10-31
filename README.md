@@ -1,6 +1,6 @@
 # Executor Documentation List
 | Site | Description |
-| -: | :- |
+| :- | :- |
 | [Calamari](https://luau.github.io/Executor-API-Docs/Calamari) | Official, Outdated |
 | [KRNL](https://docs.krnl.ca) | Official |
 | [KRNL](https://app.archbee.com/public/PREVIEW-2Jp4SDaAD4P1COFfx1p_t) | Unofficial |
@@ -10,9 +10,11 @@
 | [Synapse X](https://web.archive.org/web/https://docs.synapse.to) | Official, Archived |
 | [Synapse X](https://luau.github.io/Executor-API-Docs) | Official, Outdated |
 | [Synapse X](https://synapsexdocs.github.io) | Unofficial |
+| [Synapse X V3](https://synllc.github.io/synapse-x-documentation) | Official |
 
 # No Longer Working & Archive Missing
 ## Let me know if you find or have a working archive of any of these sites
+[Here's Guide for Restoring Websites](https://wiki.archiveteam.org/index.php?title=Restoring), if you manage to fully restore a website from the list below you should open a [Pull Request](https://github.com/luau/Executor-API-Docs/pulls) to this repository with the website that you've restored, or you can just open an [Issue](https://github.com/luau/Executor-API-Docs/issues). This way we can ensure websites are safe & sound. This also allows us (you included) to make edits & fixes to the websites if we need to!
 | Site | Description |
 | -: | :- |
 | [Script-Ware](https://dev.script-ware.com) | Official |
