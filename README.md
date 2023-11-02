@@ -10,6 +10,7 @@
 | [Script-Ware](https://web.archive.org/web/20220421142618/https://docs.script-ware.com/the-script-ware-api) | Official, Archived, Outdated | Navigate through site using `Open Link in New Tab` only,<br />otherwise you might not get redirected.<br />If that still doesn't work -<br />try removing `web/allnumbers/` from the link then pressing `ENTER` |
 | [Synapse X](https://web.archive.org/web/https://docs.synapse.to) | Official, Archived |
 | [Synapse X](https://luau.github.io/Executor-API-Docs) | Official, Outdated |
+| [Synapse X](https://github.com/luau/Executor-API-Docs/wiki) | Official, Outdated |
 | [Synapse X](https://synapsexdocs.github.io) | Unofficial |
 | [Synapse X V3](https://synllc.github.io/synapse-x-documentation) | Official |
 
