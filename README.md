@@ -5,6 +5,7 @@
 | [KRNL](https://docs.krnl.ca) | Official |
 | [KRNL](https://app.archbee.com/public/PREVIEW-2Jp4SDaAD4P1COFfx1p_t) | Unofficial |
 | [Elysian](https://luau.github.io/Executor-API-Docs/Elysian) | Official, Outdated |
+| [Oxygen-U](https://oxygenu.xyz/docs/book/) | Official |
 | [ProtoSmasher](https://web.archive.org/web/https://docs.protosmasher.net) | Official, Archived |
 | [ProtoSmasher](https://luau.github.io/Executor-API-Docs/ProtoSmasher) | Official, Outdated |
 | [Script-Ware](https://web.archive.org/web/20220421142618/https://docs.script-ware.com/the-script-ware-api) | Official, Archived, Outdated | Navigate through site using `Open Link in New Tab` only,<br />otherwise you might not get redirected.<br />If that still doesn't work -<br />try removing `web/allnumbers/` from the link then pressing `ENTER` |
