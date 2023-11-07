@@ -13,7 +13,7 @@
 | [Synapse X](https://web.archive.org/web/https://docs.synapse.to) | Official, Archived |
 | [Synapse X](https://luau.github.io/Executor-API-Docs) | Official, Outdated |
 | [Synapse X](https://github.com/luau/Executor-API-Docs/wiki) | Official, Outdated |
-| [Synapse X](https://synapsexdocs.github.io) | Unofficial |
+| [Synapse X](https://synapsexdocs.github.io) | Unofficial, Outdated |
 | [Synapse X V3](https://synllc.github.io/synapse-x-documentation) | Official |
 
 # No Longer Working & Archive Missing
