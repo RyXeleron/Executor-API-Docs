@@ -1,3 +1,5 @@
+# Disclaimer
+***This repository is solely for learning purposes only!***
 # Executor Documentation List
 | Site | Tags | Notes |
 | :- | :- | - |
