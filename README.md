@@ -1,6 +1,8 @@
 # Disclaimer
 ***This repository is solely for learning purposes only!***
 # Executor Documentation List
+* Note: If a link doesn't work we recommend visiting the [Internet Archive Wayback Machine](https://web.archive.org/) & searching there! 
+
 | Site | Tags | Notes |
 | :- | :- | - |
 | [Calamari](https://luau.github.io/Executor-API-Docs/Calamari) | Official, Outdated |
@@ -16,7 +18,7 @@
 | [Synapse X](https://luau.github.io/Executor-API-Docs) | Official, Outdated |
 | [Synapse X](https://github.com/luau/Executor-API-Docs/wiki) | Official, Outdated |
 | [Synapse X](https://synapsexdocs.github.io) | Unofficial, Outdated |
-| [Synapse X V3](https://synllc.github.io/synapse-x-documentation) | Official |
+| [Synapse X V3](https://web.archive.org/https://synllc.github.io/synapse-x-documentation) | Official |
 
 # No Longer Working & Archive Missing
 ## Let us know if you have, find or get a working archive of any of these sites
