@@ -30,6 +30,7 @@
 | -: | :- |
 | [Script-Ware](https://dev.script-ware.com) | Official |
 | [Elysian, Synapse X, ProtoSmasher](https://wally-rblx.github.io/rbxdocs.github.io) | Unofficial, Authors: Wallythebird & Nexure |
+| [Visenya](https://targaryentech.com/api.html) | Official |
 # Useful Links
 | Site | Description |
 | -: | :- |
