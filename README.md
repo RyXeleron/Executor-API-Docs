@@ -1,7 +1,8 @@
 # Disclaimer
 ***This repository is solely for learning purposes only!***
 # Executor Documentation List
-* Note: If a link doesn't work we recommend visiting the [Internet Archive Wayback Machine](https://web.archive.org/) & searching there! 
+* Note: If a link doesn't work we recommend visiting the [Internet Archive Wayback Machine](https://web.archive.org/) & searching there!
+* You can also search this repository, especially the [./docs](https://github.com/luau/Executor-API-Docs/tree/master/docs) folder
 
 | Site | Tags | Notes |
 | :- | :- | - |
