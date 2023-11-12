@@ -8,23 +8,23 @@
 
 | Site | Tags | Notes |
 | :- | :- | - |
-| [Calamari](https://luau.github.io/Executor-API-Docs/Calamari) | Official, Archived |
+| [Calamari](https://web.archive.org/calamari.cc/Environment/) | Official, Archived | Redirects to https://forum.calamari.cc/showthread.php?tid=401
 | [KRNL](https://docs.krnl.ca) | Official |
 | [KRNL](https://app.archbee.com/public/PREVIEW-2Jp4SDaAD4P1COFfx1p_t) | Unofficial |
 | [Elysian](https://luau.github.io/Executor-API-Docs/Elysian) | Official, Archived |
 | [Fluster Zero](https://docs.fluster.world) | Official |
 | [Oxygen-U](https://oxygenu.xyz/docs/book/) | Official |
-| [ProtoSmasher](https://web.archive.org/web/https://docs.protosmasher.net) | Official, Archived |
+| [ProtoSmasher](https://web.archive.org/docs.protosmasher.net) | Official, Archived |
 | [ProtoSmasher](https://luau.github.io/Executor-API-Docs/ProtoSmasher) | Official, Outdated |
-| [Script-Ware](https://web.archive.org/web/20220421142618/https://docs.script-ware.com/the-script-ware-api) | Official, Archived | Navigate through site using `Open Link in New Tab` only,<br />otherwise you might not get redirected.<br />If that still doesn't work -<br />try removing `web/allnumbers/` from the link then pressing `ENTER` |
+| [Script-Ware](https://web.archive.org/web/20220421142618/docs.script-ware.com/the-script-ware-api) | Official, Archived | Navigate through site using `Open Link in New Tab` only,<br />otherwise you might not get redirected.<br />If that still doesn't work -<br />try removing `web/allnumbers/` from the link then pressing `ENTER` |
 | [SirHurt V4](https://www.sirhurt.net/login/API.html) | Official |
-| [Synapse X](https://web.archive.org/web/https://docs.synapse.to) | Official, Archived |
+| [Synapse X](https://web.archive.org/docs.synapse.to) | Official, Archived |
 | [Synapse X](https://luau.github.io/Executor-API-Docs) | Official, Outdated |
 | [Synapse X](https://github.com/luau/Executor-API-Docs/wiki) | Official, Outdated |
 | [Synapse X](https://synapsexdocs.github.io) | Unofficial, Outdated |
 | [Synapse X Debug Library](https://gist.github.com/TehBlaxxor/c8022570fea9e48ab7a6a6ad23c7c671) | Unofficial, Outdated |
 | [Synapse X Hidden](https://v3rmillion.net/showthread.php?tid=879181) | Unofficial, Outdated |
-| [Synapse X V3](https://web.archive.org/https://synllc.github.io/synapse-x-documentation) | Official |
+| [Synapse X V3](https://web.archive.org/synllc.github.io/synapse-x-documentation) | Official |
 
 # No Longer Working & Archive Missing
 ## Let us know if you have, find or get a working archive of any of these sites
