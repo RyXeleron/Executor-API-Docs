@@ -19,6 +19,7 @@
 | [Synapse X](https://luau.github.io/Executor-API-Docs) | Official, Outdated |
 | [Synapse X](https://github.com/luau/Executor-API-Docs/wiki) | Official, Outdated |
 | [Synapse X](https://synapsexdocs.github.io) | Unofficial, Outdated |
+| [Synapse X Debug Library](https://gist.github.com/TehBlaxxor/c8022570fea9e48ab7a6a6ad23c7c671) | Unofficial, Outdated |
 | [Synapse X Hidden](https://v3rmillion.net/showthread.php?tid=879181) | Unofficial, Outdated |
 | [Synapse X V3](https://web.archive.org/https://synllc.github.io/synapse-x-documentation) | Official |
 
