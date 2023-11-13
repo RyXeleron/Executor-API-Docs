@@ -35,7 +35,7 @@
 | :- | :- | - |
 | [Script-Ware](https://dev.script-ware.com) | Official |
 | [Elysian, Synapse X, ProtoSmasher](https://wally-rblx.github.io/rbxdocs.github.io) | Unofficial | Authors: Wallythebird ([Github](https://github.com/wally-rblx), [Discord](https://discordapp.com/users/727303510185607279)) & Nexure ([Github](https://github.com/Nexure), [Discord](https://discordapp.com/users/531933495598252042)) |
-| [Visenya](https://targaryentech.com/api.html) | Official |
+| [Visenya](https://targaryentech.com/api.html), Thread: https://v3rmillion.net/showthread.php?tid=904313 | Official |
 # Useful Links
 | Site | Description | Notes |
 | :- | :- | - |
