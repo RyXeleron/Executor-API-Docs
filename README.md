@@ -11,6 +11,8 @@
 | :- | :- | - |
 | [Athena](https://web.archive.org/web/20180406063027/http://tacticalbfg.com:80/Athena/docs) | Official, Archived
 | [Calamari](https://web.archive.org/calamari.cc/Environment) | Official, Archived | Redirects to https://forum.calamari.cc/showthread.php?tid=401
+| [Celery](https://celeryrblx.github.io) | Unofficial | Includes Rare RakNet Docs!
+| [Celery](https://web.archive.org/web/https://github.com/thedoomed/Celery) | Unofficial | Includes Rare RakNet Docs!
 | [KRNL](https://docs.krnl.ca) | Official |
 | [KRNL](https://app.archbee.com/public/PREVIEW-2Jp4SDaAD4P1COFfx1p_t) | Unofficial |
 | [Elysian](https://luau.github.io/Executor-API-Docs/Elysian) | Official, Archived |
