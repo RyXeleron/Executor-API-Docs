@@ -1,7 +1,8 @@
 # Disclaimer
 ***This repository is solely for learning purposes only!***
 # Executor Documentation List
-* Note: If a link doesn't work we recommend visiting the [Internet Archive Wayback Machine](https://web.archive.org/) & searching there!
+## Notes
+* If a link doesn't work we recommend visiting the [Internet Archive Wayback Machine](https://web.archive.org/) & searching there!
 * You can also search this repository, especially the [./docs](https://github.com/luau/Executor-API-Docs/tree/master/docs) folder
 * `Archived` tag might mean that the documentation can also be `Outdated` as well, as we don't have a way of verifying that
 * If you disagree with something in this repository you can always open a [Pull Request](https://github.com/luau/Executor-API-Docs/pulls) or an [Issue](https://github.com/luau/Executor-API-Docs/issues)
@@ -29,9 +30,8 @@
 | [Synapse X Hidden](https://v3rmillion.net/showthread.php?tid=879181) | Unofficial, Outdated |
 | [Synapse X V3](https://web.archive.org/synllc.github.io/synapse-x-documentation) | Official |
 
-# No Longer Working & Archive Missing
-## Let us know if you have, find or get a working archive of any of these sites
-## That also applies to the Sites listed above with the `Archived` Tag as the archived version might not cover the full website hence why a proper & working version that we can host here instead is appreciated.
+## No Longer Working & Archive Missing
+### Let us know if you have, find or get a working archive of any of these sites<br />That also applies to the Sites listed above with the `Archived` Tag as the archived version might not cover the full website hence why a proper & working version that we can host here instead is appreciated.
 [Here's Guide for Restoring Websites](https://wiki.archiveteam.org/index.php?title=Restoring), if you manage to fully restore a website from the list below you should open a [Pull Request](https://github.com/luau/Executor-API-Docs/pulls) to this repository with the website that you've restored, or you can just open an [Issue](https://github.com/luau/Executor-API-Docs/issues). This way we can ensure websites are safe & sound. This also allows us (you included) to make edits & fixes to the websites if we need to!
 | Site | Tags | Notes |
 | :- | :- | - |
@@ -41,4 +41,5 @@
 # Useful Links
 | Site | Description | Notes |
 | :- | :- | - |
+| [UMF](https://github.com/luau/SomeHub/wiki/Universal-Method-Finder) | Universal Method Finder, we ***strongly recommend*** trying it out instead of using the classic `local clipBoard = setclipboard or toclipboard or set_clipboard or (Clipboard and Clipboard.set)` notation. It will make your developer life easier :fire: | Authors: Us :grin:
 | [UNC](https://github.com/unified-naming-convention/NamingStandard) | Unified Naming Convention | Authors: Script-Ware Devs
