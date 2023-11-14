@@ -35,9 +35,10 @@
 [Here's Guide for Restoring Websites](https://wiki.archiveteam.org/index.php?title=Restoring), if you manage to fully restore a website from the list below you should open a [Pull Request](https://github.com/luau/Executor-API-Docs/pulls) to this repository with the website that you've restored, or you can just open an [Issue](https://github.com/luau/Executor-API-Docs/issues). This way we can ensure websites are safe & sound. This also allows us (you included) to make edits & fixes to the websites if we need to!
 | Site | Tags | Notes |
 | :- | :- | - |
+| [Hexus](https://forum.hexus.xyz/t/hexus-functions/6885/2) | Official | Thread: https://v3rmillion.net/showthread.php?tid=638069<br />OG Executor, which makes the documentation rare!
+| [Elysian, Synapse X, ProtoSmasher](https://wally-rblx.github.io/rbxdocs.github.io) | Unofficial | Authors: Wallythebird ([Github](https://github.com/wally-rblx), [Discord](https://discordapp.com/users/727303510185607279)) & Nexure ([Github](https://github.com/Nexure), [Discord](https://discordapp.com/users/531933495598252042)),<br />Thread: https://v3rmillion.net/showthread.php?tid=904313 |
 | [Script-Ware](https://dev.script-ware.com) | Official |
-| [Elysian, Synapse X, ProtoSmasher](https://wally-rblx.github.io/rbxdocs.github.io) | Unofficial | Authors: Wallythebird ([Github](https://github.com/wally-rblx), [Discord](https://discordapp.com/users/727303510185607279)) & Nexure ([Github](https://github.com/Nexure), [Discord](https://discordapp.com/users/531933495598252042)) |
-| [Visenya](https://targaryentech.com/api.html), Thread: https://v3rmillion.net/showthread.php?tid=904313 | Official |
+| [Visenya](https://targaryentech.com/api.html) | Official | Other Links: https://variablehosting.net/Visenya/api.html<br />Thread: https://v3rmillion.net/showthread.php?tid=621711<br />OG Executor, which makes the documentation rare!
 # Useful Links
 | Site | Description | Notes |
 | :- | :- | - |
