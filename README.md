@@ -38,7 +38,8 @@
 | [Synapse X V3](https://web.archive.org/synllc.github.io/synapse-x-documentation) | Official, Archived (Latest)
 
 ## No Longer Working & Archive Missing
-### Let us know if you have, find or get a working archive of any of these sites<br />That also applies to the Sites listed above with the `Archived` Tag as the archived version might not cover the full website hence why a proper & working version that we can host here instead is appreciated.
+### Let us know if you have, find or get a working archive of any of these sites
+#### That also applies to the Sites listed above with the `Archived` Tag as the archived version might not cover the full website hence why a proper & working version that we can host here instead is appreciated.
 
 * [Here's Full List of Executors](https://github.com/luau/Executor-API-Docs/blob/master/Full-Executor-List), it can be used to search for **missing** documentations. To increase your chances of finding missing docs you can also try adding any combination of the following keywords: `documentation` / `docs` / `exploit` / `executor` / `roblox` / `sploit`. Good luck!<br />
 
