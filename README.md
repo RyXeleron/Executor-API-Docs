@@ -39,6 +39,7 @@
 
 ## No Longer Working & Archive Missing
 ### Let us know if you have, find or get a working archive of any of these sites<br />That also applies to the Sites listed above with the `Archived` Tag as the archived version might not cover the full website hence why a proper & working version that we can host here instead is appreciated.
+[Here's Full List of Executors](https://github.com/luau/Executor-API-Docs/blob/master/Full-Executor-List), it can be used to search for **missing** documentations. To increase your chances of finding missing docs you can also try adding any combination of the following keywords: `documentation` / `docs` / `exploit` / `executor` / `roblox` / `sploit`. Good luck!<br /><br />
 [Here's Guide for Restoring Websites](https://wiki.archiveteam.org/index.php?title=Restoring), if you manage to fully restore a website from the list below you should open a [Pull Request](https://github.com/luau/Executor-API-Docs/pulls) to this repository with the website that you've restored, or you can just open an [Issue](https://github.com/luau/Executor-API-Docs/issues). This way we can ensure websites are safe & sound. This also allows us (you included) to make edits & fixes to the websites if we need to!
 | Site | Tags | Notes
 | :- | :- | -
