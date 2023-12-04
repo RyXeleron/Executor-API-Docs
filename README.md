@@ -39,8 +39,14 @@
 
 ## No Longer Working & Archive Missing
 ### Let us know if you have, find or get a working archive of any of these sites<br />That also applies to the Sites listed above with the `Archived` Tag as the archived version might not cover the full website hence why a proper & working version that we can host here instead is appreciated.
-[Here's Full List of Executors](https://github.com/luau/Executor-API-Docs/blob/master/Full-Executor-List), it can be used to search for **missing** documentations. To increase your chances of finding missing docs you can also try adding any combination of the following keywords: `documentation` / `docs` / `exploit` / `executor` / `roblox` / `sploit`. Good luck!<br /><br />
-[Here's Guide for Restoring Websites](https://wiki.archiveteam.org/index.php?title=Restoring), if you manage to fully restore a website from the list below you should open a [Pull Request](https://github.com/luau/Executor-API-Docs/pulls) to this repository with the website that you've restored, or you can just open an [Issue](https://github.com/luau/Executor-API-Docs/issues). This way we can ensure websites are safe & sound. This also allows us (you included) to make edits & fixes to the websites if we need to!
+
+* [Here's Full List of Executors](https://github.com/luau/Executor-API-Docs/blob/master/Full-Executor-List), it can be used to search for **missing** documentations. To increase your chances of finding missing docs you can also try adding any combination of the following keywords: `documentation` / `docs` / `exploit` / `executor` / `roblox` / `sploit`. Good luck!<br />
+
+* [Here's Guide for Restoring Websites](https://wiki.archiveteam.org/index.php?title=Restoring), if you manage to fully restore a website from the list below you should open a [Pull Request](https://github.com/luau/Executor-API-Docs/pulls) to this repository with the website that you've restored, or you can just open an [Issue](https://github.com/luau/Executor-API-Docs/issues). This way we can ensure websites are safe & sound. This also allows us (you included) to make edits & fixes to the websites if we need to!
+
+* We recommend using `https://web.archive.org/web/*/example.com` for ***Snapshot Calendar*** and `https://web.archive.org/web/*/example.com/*` for ***URL Table List***, make sure to replace `example.com` with the website domain that you're looking to inspect (without `https://`). This site (https://archivarix.com/en/) should format the links automatically for you after you enter your desired domain into the domain textbox:
+<br /><br />![Example](https://github.com/luau/Executor-API-Docs/assets/95628489/6e588d90-cb58-4f44-990e-083ceeecb784)
+
 | Site | Tags | Notes
 | :- | :- | -
 | [Hexus](https://forum.hexus.xyz/t/hexus-functions/6885/2) | Official | Thread: https://v3rmillion.net/showthread.php?tid=638069<br />OG Executor, which makes the documentation rare!
