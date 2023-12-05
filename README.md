@@ -18,7 +18,7 @@
 | [Comet](https://paficent.github.io/CometDocs/) | Unofficial, Outdated | Other Undocumented Functions: https://github.com/Paficent/CometDocs/blob/gh-pages/OtherFunctions.md
 | [Hexus](https://github.com/customality/hexus) | Official, Outdated
 | [KRNL](https://docs.krnl.ca) | Official
-| [KRNL](https://app.archbee.com/public/PREVIEW-2Jp4SDaAD4P1COFfx1p_t) | Unofficial
+| [KRNL](https://app.archbee.com/public/2Jp4SDaAD4P1COFfx1p_t) | Unofficial
 | [Elysian](https://luau.github.io/Executor-API-Docs/Elysian) | Official, Archived
 | [Fluster Zero](https://docs.fluster.world) | Official | If link doesn't work, use: https://web.archive.org/https://docs.fluster.world/ 
 | [Fluxus](https://fluxusrbx.gitbook.io/) | Official, Outdated
