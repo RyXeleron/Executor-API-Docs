@@ -1,5 +1,6 @@
 # Disclaimer
-***This repository is solely for learning purposes only!***
+***This repository is solely for educational & learning purposes only!***
+***Any material provided in this README file, such as (but not exclusively): links, images and names - all belong to their rightful owners.***
 # Executor Documentation List
 ## Notes
 * If a link doesn't work we recommend visiting the [Internet Archive Wayback Machine](https://web.archive.org/) & searching there!
