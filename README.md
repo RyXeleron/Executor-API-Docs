@@ -18,7 +18,8 @@
 | [Celery RakNet Library](https://gist.github.com/jLn0n/16c2ce3c0c1fc1b6b76949715077da7a/cedf1629355ab858d6d47846b10e02bb37ea704f) | Unofficial, Outdated | Includes Rare RakNet Docs!
 | [Comet](https://paficent.github.io/CometDocs/) | Unofficial, Outdated | Other Undocumented Functions: https://github.com/Paficent/CometDocs/blob/gh-pages/OtherFunctions.md
 | [Hexus](https://github.com/customality/hexus) | Official, Outdated
-| [Krampus/Ro-Exec/loader.live](https://krampus-organization.gitbook.io/loader.live-ro-exec-documentation/) | Official | **Warning**: Google flags the site as harmful, If link doesn't work, use: https://web.archive.org/https://krampus-organization.gitbook.io/loader.live-ro-exec-documentation/
+| [[OLD] RO-EXEC (Krampus/loader.live)](https://krampus-organization.gitbook.io/loader.live-ro-exec-documentation/) | Official, Outdated | **Warning**: Google flags the site as harmful, If link doesn't work, use: https://web.archive.org/https://krampus-organization.gitbook.io/loader.live-ro-exec-documentation/
+| [RO-EXEC (Krampus/loader.live)](https://docs.krampus.gg/) | Official
 | [KRNL](https://docs.krnl.ca) | Official
 | [KRNL](https://app.archbee.com/public/2Jp4SDaAD4P1COFfx1p_t) | Unofficial
 | [Elysian](https://luau.github.io/Executor-API-Docs/Elysian) | Official, Archived
@@ -27,15 +28,15 @@
 | [Fluxus Android](https://github.com/YieldingFluxus/android-documentation) | Unofficial, Outdated
 | [Oxygen U](https://oxygenu.xyz/docs/book) | Official
 | [ProtoSmasher](https://web.archive.org/docs.protosmasher.net) | Official, Archived
-| [ProtoSmasher](https://luau.github.io/Executor-API-Docs/ProtoSmasher) | Official, Outdated
+| [[OLD] ProtoSmasher](https://luau.github.io/Executor-API-Docs/ProtoSmasher) | Official, Outdated
 | [Rune CE](https://l4tt.github.io/rune-cheat-engine/) | Official
 | [Script-Ware](https://web.archive.org/web/20220421142618/docs.script-ware.com/the-script-ware-api) | Official, Archived | Navigate through site using `Open Link in New Tab` only,<br />otherwise you might not get redirected.<br />If that still doesn't work -<br />try removing `web/allnumbers/` from the link then pressing `ENTER` |
 | [Sentinel](https://luau.github.io/Executor-API-Docs/Sentinel) | Unofficial, Archived | Author: greenmangaming.com ([Github](https://github.com/TehBlaxxor), [Discord](https://discordapp.com/users/577282206079385610))
 | [SirHurt V4](https://www.sirhurt.net/login/API.html) | Official
 | [Synapse X](https://web.archive.org/docs.synapse.to) | Official, Archived
-| [Synapse X](https://luau.github.io/Executor-API-Docs) | Official, Outdated
-| [Synapse X](https://github.com/luau/Executor-API-Docs/wiki) | Official, Outdated
-| [Synapse X](https://synapsexdocs.github.io) | Unofficial, Outdated
+| [[OLD] Synapse X](https://luau.github.io/Executor-API-Docs) | Official, Outdated
+| [[OLD] Synapse X](https://github.com/luau/Executor-API-Docs/wiki) | Official, Outdated
+| [[OLD] Synapse X](https://synapsexdocs.github.io) | Unofficial, Outdated
 | [Synapse X Debug Library](https://gist.github.com/TehBlaxxor/c8022570fea9e48ab7a6a6ad23c7c671) | Unofficial, Outdated
 | [Synapse X V3](https://web.archive.org/synllc.github.io/synapse-x-documentation) | Official, Archived (Latest)
 
