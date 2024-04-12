@@ -15,13 +15,13 @@
 | [Calamari](https://web.archive.org/calamari.cc/Environment) | Official, Archived | Redirects to https://forum.calamari.cc/showthread.php?tid=401
 | [Celery](https://celeryrblx.github.io) | Unofficial | Includes Rare RakNet Docs!
 | [Celery](https://web.archive.org/web/20220416001215/https://github.com/thedoomed/Celery) | Unofficial, Archived | Includes Rare RakNet Docs!
-| [Celery RakNet Library](https://gist.github.com/jLn0n/16c2ce3c0c1fc1b6b76949715077da7a/cedf1629355ab858d6d47846b10e02bb37ea704f) | Unofficial, Outdated | Includes Rare RakNet Docs!
+| [Celery RakNet Library](https://gist.github.com/jLn0n/16c2ce3c0c1fc1b6b76949715077da7a/cedf1629355ab858d6d47846b10e02bb37ea704f) | Unofficial, Outdated | Includes Rare RakNet Docs!<br />Author: jalon ([Github](https://github.com/jLn0n), [Discord](https://discordapp.com/users/474555624219344906))
 | [Comet](https://paficent.github.io/CometDocs/) | Unofficial, Outdated | Other Undocumented Functions: https://github.com/Paficent/CometDocs/blob/gh-pages/OtherFunctions.md
 | [Hexus](https://github.com/customality/hexus) | Official, Outdated
-| [[OLD] RO-EXEC (Krampus/loader.live)](https://krampus-organization.gitbook.io/loader.live-ro-exec-documentation/) | Official, Outdated | **Warning**: Google flags the site as harmful, If link doesn't work, use: https://web.archive.org/https://krampus-organization.gitbook.io/loader.live-ro-exec-documentation/
 | [RO-EXEC (Krampus/loader.live)](https://docs.krampus.gg/) | Official
+| [[OLD] RO-EXEC (Krampus/loader.live)](https://krampus-organization.gitbook.io/loader.live-ro-exec-documentation/) | Official, Outdated | **Warning**: Google flags the site as harmful, If link doesn't work, use: https://web.archive.org/https://krampus-organization.gitbook.io/loader.live-ro-exec-documentation/
 | [KRNL](https://docs.krnl.ca) | Official
-| [KRNL](https://app.archbee.com/public/2Jp4SDaAD4P1COFfx1p_t) | Unofficial
+| [KRNL](https://app.archbee.com/public/2Jp4SDaAD4P1COFfx1p_t) | Unofficial | Author: zzerexx ([Github](https://github.com/zzerexx), [Discord](https://discordapp.com/users/292756593412669440))
 | [Elysian](https://luau.github.io/Executor-API-Docs/Elysian) | Official, Archived
 | [Fluster Zero](https://docs.fluster.world) | Official | If link doesn't work, use: https://web.archive.org/https://docs.fluster.world/ 
 | [Fluxus](https://fluxusrbx.gitbook.io/) | Official, Outdated
@@ -37,7 +37,7 @@
 | [[OLD] Synapse X](https://luau.github.io/Executor-API-Docs) | Official, Outdated
 | [[OLD] Synapse X](https://github.com/luau/Executor-API-Docs/wiki) | Official, Outdated
 | [[OLD] Synapse X](https://synapsexdocs.github.io) | Unofficial, Outdated
-| [Synapse X Debug Library](https://gist.github.com/TehBlaxxor/c8022570fea9e48ab7a6a6ad23c7c671) | Unofficial, Outdated
+| [Synapse X Debug Library](https://gist.github.com/TehBlaxxor/c8022570fea9e48ab7a6a6ad23c7c671) | Unofficial, Outdated | Author: greenmangaming.com ([Github](https://github.com/TehBlaxxor), [Discord](https://discordapp.com/users/577282206079385610))
 | [Synapse X V3](https://web.archive.org/synllc.github.io/synapse-x-documentation) | Official, Archived (Latest)
 
 ## No Longer Working & Archive Missing
