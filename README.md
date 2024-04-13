@@ -17,6 +17,7 @@
 | [Celery](https://web.archive.org/web/20220416001215/https://github.com/thedoomed/Celery) | Unofficial, Archived | Includes Rare RakNet Docs!
 | [Celery RakNet Library](https://gist.github.com/jLn0n/16c2ce3c0c1fc1b6b76949715077da7a/cedf1629355ab858d6d47846b10e02bb37ea704f) | Unofficial, Outdated | Includes Rare RakNet Docs!<br />Author: jalon ([Github](https://github.com/jLn0n), [Discord](https://discordapp.com/users/474555624219344906))
 | [Comet](https://paficent.github.io/CometDocs/) | Unofficial, Outdated | Other Undocumented Functions: https://github.com/Paficent/CometDocs/blob/gh-pages/OtherFunctions.md
+| [DX9WARE](https://cultofintellect.com/docs/DX9WARE/DX9WARE%20LUA/introduction.html) | Official
 | [Hexus](https://github.com/customality/hexus) | Official, Outdated
 | [RO-EXEC (Krampus/loader.live)](https://docs.krampus.gg/) | Official
 | [[OLD] RO-EXEC (Krampus/loader.live)](https://krampus-organization.gitbook.io/loader.live-ro-exec-documentation/) | Official, Outdated | **Warning**: Google flags the site as harmful, If link doesn't work, use: https://web.archive.org/https://krampus-organization.gitbook.io/loader.live-ro-exec-documentation/
