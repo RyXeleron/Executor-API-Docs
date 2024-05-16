@@ -29,7 +29,7 @@
 | [Fluxus Android](https://github.com/YieldingFluxus/android-documentation) | Unofficial, Outdated
 | [Oxygen U](https://oxygenu.xyz/docs/book) | Official
 | [[OLD] Oxygen U](https://oxygenu.xyz/docs.html) | Official, Outdated
-| [[OLD] Oxygen U](https://github.com/iDevastate/Oxygen-v2/blob/main/docs.txt) | Unofficial, Outdated
+| [[OLD] Oxygen U](https://github.com/iDevastate/Oxygen-v2/blob/main/docs.txt) | Official, Outdated
 | [ProtoSmasher](https://web.archive.org/docs.protosmasher.net) | Official, Archived
 | [[OLD] ProtoSmasher](https://luau.github.io/Executor-API-Docs/ProtoSmasher) | Official, Outdated
 | [Rune CE](https://l4tt.github.io/rune-cheat-engine/) | Official
