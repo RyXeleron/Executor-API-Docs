@@ -22,6 +22,7 @@
 | [RO-EXEC (Krampus/loader.live)](https://web.archive.org/https://docs.krampus.gg/) | Official
 | [[OLD] RO-EXEC (Krampus/loader.live)](https://web.archive.org/web/20240314125602/https://krampus-organization.gitbook.io/loader.live-ro-exec-documentation) | Official, Outdated | **Warning**: Google flags the site as harmful
 | [KRNL](https://docs.krnl.ca) | Official
+| [KRNL](https://github.com/bruvzz/krnldoc/tree/main/src) | Unofficial
 | [KRNL](https://app.archbee.com/public/2Jp4SDaAD4P1COFfx1p_t) | Unofficial | Author: zzerexx ([Github](https://github.com/zzerexx), [Discord](https://discordapp.com/users/292756593412669440))
 | [Elysian](https://luau.github.io/Executor-API-Docs/Elysian) | Official, Archived
 | [Fluster Zero](https://docs.fluster.world) | Official | If link doesn't work, use: https://web.archive.org/https://docs.fluster.world/ 
