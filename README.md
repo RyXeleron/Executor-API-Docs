@@ -14,18 +14,18 @@
 | [Athena](https://web.archive.org/web/20180406063027/http://tacticalbfg.com:80/Athena/docs) | Official, Archived
 | [Calamari](https://web.archive.org/calamari.cc/Environment) | Official, Archived | Redirects to https://forum.calamari.cc/showthread.php?tid=401
 | [Celery](https://celeryrblx.github.io) | Unofficial | Includes Rare RakNet Docs!
-| [Celery](https://web.archive.org/web/20220416001215/https://github.com/thedoomed/Celery) | Unofficial, Archived | Includes Rare RakNet Docs!
+| [Celery](https://web.archive.org/web/20220416001215/github.com/thedoomed/Celery) | Unofficial, Archived | Includes Rare RakNet Docs!
 | [Celery RakNet Library](https://gist.github.com/jLn0n/16c2ce3c0c1fc1b6b76949715077da7a/cedf1629355ab858d6d47846b10e02bb37ea704f) | Unofficial, Outdated | Includes Rare RakNet Docs!<br />Author: jalon ([Github](https://github.com/jLn0n), [Discord](https://discordapp.com/users/474555624219344906))
 | [Comet](https://paficent.github.io/CometDocs/) | Unofficial, Outdated | Other Undocumented Functions: https://github.com/Paficent/CometDocs/blob/gh-pages/OtherFunctions.md
 | [DX9WARE](https://cultofintellect.com/docs/DX9WARE/DX9WARE%20LUA/introduction.html) | Official
 | [Hexus](https://github.com/customality/hexus) | Official, Outdated
-| [RO-EXEC (Krampus/loader.live)](https://web.archive.org/https://docs.krampus.gg/) | Official
-| [[OLD] RO-EXEC (Krampus/loader.live)](https://web.archive.org/web/20240314125602/https://krampus-organization.gitbook.io/loader.live-ro-exec-documentation) | Official, Outdated | **Warning**: Google flags the site as harmful
+| [RO-EXEC (Krampus/loader.live)](https://web.archive.org/docs.krampus.gg/) | Official
+| [[OLD] RO-EXEC (Krampus/loader.live)](https://web.archive.org/web/20240314125602/krampus-organization.gitbook.io/loader.live-ro-exec-documentation) | Official, Outdated | **Warning**: Google flags the site as harmful
 | [KRNL](https://docs.krnl.ca) | Official
 | [KRNL](https://github.com/bruvzz/krnldoc/tree/main/src) | Unofficial
 | [KRNL](https://app.archbee.com/public/2Jp4SDaAD4P1COFfx1p_t) | Unofficial | Author: zzerexx ([Github](https://github.com/zzerexx), [Discord](https://discordapp.com/users/292756593412669440))
 | [Elysian](https://luau.github.io/Executor-API-Docs/Elysian) | Official, Archived
-| [Fluster Zero](https://docs.fluster.world) | Official | If link doesn't work, use: https://web.archive.org/https://docs.fluster.world/ 
+| [Fluster Zero](https://web.archive.org/docs.fluster.world/ ) | Official, Archived
 | [Fluxus](https://fluxusrbx.gitbook.io/) | Official, Outdated
 | [Fluxus Android](https://github.com/YieldingFluxus/android-documentation) | Unofficial, Outdated
 | [Oxygen U](https://oxygenu.xyz/docs/book) | Official
