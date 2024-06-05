@@ -32,7 +32,6 @@
 | [[OLD] Oxygen U](https://github.com/iDevastate/Oxygen-v2/blob/main/docs.txt) | Official, Outdated
 | [ProtoSmasher](https://web.archive.org/docs.protosmasher.net) | Official, Archived
 | [[OLD] ProtoSmasher](https://luau.github.io/Executor-API-Docs/ProtoSmasher) | Official, Outdated
-| [Rune CE](https://l4tt.github.io/rune-cheat-engine/) | Official
 | [Script-Ware](https://web.archive.org/web/20220421142618/docs.script-ware.com/the-script-ware-api) | Official, Archived | Navigate through site using `Open Link in New Tab` only,<br />otherwise you might not get redirected.<br />If that still doesn't work -<br />try removing `web/allnumbers/` from the link then pressing `ENTER` |
 | [Sentinel](https://luau.github.io/Executor-API-Docs/Sentinel) | Unofficial, Archived | Author: greenmangaming.com ([Github](https://github.com/TehBlaxxor), [Discord](https://discordapp.com/users/577282206079385610))
 | [SirHurt V4](https://www.sirhurt.net/login/API.html) | Official
