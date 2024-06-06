@@ -29,7 +29,8 @@
 | [Oxygen U](https://oxygenu.xyz/docs/book) | Official
 | [[OLD] Oxygen U](https://oxygenu.xyz/docs.html) | Official, Outdated
 | [[OLD] Oxygen U](https://github.com/iDevastate/Oxygen-v2/blob/main/docs.txt) | Official, Outdated
-| [ProtoSmasher](https://web.archive.org/docs.protosmasher.net) | Official, Archived
+| [ProtoSmasher](https://luau.github.io/Executor-API-Docs/ProtoSmasher%20Latest) | Official, Archived
+| [[OLD] ProtoSmasher](https://web.archive.org/docs.protosmasher.net) | Official, Archived
 | [[OLD] ProtoSmasher](https://luau.github.io/Executor-API-Docs/ProtoSmasher) | Official, Outdated
 | [RO-EXEC (Krampus/loader.live)](https://web.archive.org/docs.krampus.gg/) | Official
 | [[OLD] RO-EXEC (Krampus/loader.live)](https://web.archive.org/web/20240314125602/krampus-organization.gitbook.io/loader.live-ro-exec-documentation) | Official, Outdated | **Warning**: Google flags the site as harmful
