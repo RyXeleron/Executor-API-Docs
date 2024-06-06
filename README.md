@@ -42,6 +42,7 @@
 | [[OLD] Synapse X](https://github.com/luau/Executor-API-Docs/wiki) | Official, Outdated
 | [[OLD] Synapse X](https://synapsexdocs.github.io) | Unofficial, Outdated
 | [Synapse X Debug Library](https://gist.github.com/TehBlaxxor/c8022570fea9e48ab7a6a6ad23c7c671) | Unofficial, Outdated | Author: greenmangaming.com ([Github](https://github.com/TehBlaxxor), [Discord](https://discordapp.com/users/577282206079385610))
+| [Synapse X Hidden](https://luau.github.io/Executor-API-Docs/Synapse%20X%20Hidden) | Unofficial, Outdated | Thread: https://v3rmillion.net/showthread.php?tid=879181
 | [Synapse X V3](https://web.archive.org/synllc.github.io/synapse-x-documentation) | Official, Archived (Latest)
 | [Unit](https://web.archive.org/github.com/unit-fun/Unit-Documentation) | Official, Archived
 
@@ -61,7 +62,6 @@
 | [Hexus](https://forum.hexus.xyz/t/hexus-functions/6885/2) | Official | Thread: https://v3rmillion.net/showthread.php?tid=638069<br />OG Executor, which makes the documentation rare!
 | [Elysian, Synapse X, ProtoSmasher](https://wally-rblx.github.io/rbxdocs.github.io) | Unofficial | Authors: Wallythebird ([Github](https://github.com/wally-rblx), [Discord](https://discordapp.com/users/727303510185607279)) & Nexure ([Github](https://github.com/Nexure), [Discord](https://discordapp.com/users/531933495598252042)),<br />Thread: https://v3rmillion.net/showthread.php?tid=904313
 | [Script-Ware](https://dev.script-ware.com) | Official
-| [Synapse X Hidden](https://v3rmillion.net/showthread.php?tid=879181) | Unofficial, Outdated | Thread: https://v3rmillion.net/showthread.php?tid=879181
 | [Visenya](https://targaryentech.com/api.html) | Official | Other Links: https://variablehosting.net/Visenya/api.html<br />Thread: https://v3rmillion.net/showthread.php?tid=621711<br />OG Executor, which makes the documentation rare!
 # Useful Links
 | Site | Description | Notes
