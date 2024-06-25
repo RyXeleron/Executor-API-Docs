@@ -45,6 +45,7 @@
 | [Synapse X Hidden](https://luau.github.io/Executor-API-Docs/Synapse%20X%20Hidden) | Unofficial, Outdated | Thread: https://v3rmillion.net/showthread.php?tid=879181
 | [Synapse X V3](https://web.archive.org/synllc.github.io/synapse-x-documentation) | Official, Archived (Latest)
 | [Unit](https://web.archive.org/github.com/unit-fun/Unit-Documentation) | Official, Archived
+| [Valkyrie](https://valkyrieofficial.vercel.app/docs/ValkyrieDocs.html) | Official
 
 ## No Longer Working & Archive Missing
 ### Let us know if you have, find or get a working archive of any of these sites
