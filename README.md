@@ -1,3 +1,7 @@
+<p align="center">
+  <img height="300px" style="margin: 0; padding: 0" src="https://github.com/luau/Executor-API-Docs/assets/95628489/7d44ecb4-f224-43c5-87ab-77f6e503782c" />
+</p>
+
 # Disclaimer
 * ***This repository is solely for educational & learning purposes only!***
 * ***Any material provided in this README file, such as (but not exclusively): links, images and names - all belong to their rightful owners.***
@@ -5,7 +9,7 @@
 ## Notes
 * If a link doesn't work we recommend visiting the [Internet Archive Wayback Machine](https://web.archive.org/) & searching there!
 * You can also search this repository, especially the [./docs](https://github.com/luau/Executor-API-Docs/tree/master/docs) folder
-* `Archived` tag might mean that the documentation can also be `Outdated` as well, as we don't have a way of verifying that
+* `Archived` tag means that the documentation might also be `Outdated` as well, as we don't have a way of verifying that
 * If you disagree with something in this repository you can always open a [Pull Request](https://github.com/luau/Executor-API-Docs/pulls) or an [Issue](https://github.com/luau/Executor-API-Docs/issues)
 
 | Site | Tags | Notes
@@ -33,6 +37,7 @@
 | [ProtoSmasher](https://luau.github.io/Executor-API-Docs/ProtoSmasher%20Latest) | Official, Archived
 | [[OLD] ProtoSmasher](https://web.archive.org/docs.protosmasher.net) | Official, Archived
 | [[OLD] ProtoSmasher](https://luau.github.io/Executor-API-Docs/ProtoSmasher) | Official, Outdated
+| [Rainer](https://web.archive.org/https://developer.rainerexploit.xyz/) | Official, Archived
 | [RO-EXEC (Krampus/loader.live)](https://web.archive.org/docs.krampus.gg/) | Official
 | [[OLD] RO-EXEC (Krampus/loader.live)](https://web.archive.org/web/20240314125602/krampus-organization.gitbook.io/loader.live-ro-exec-documentation) | Official, Outdated | **Warning**: Google flags the site as harmful
 | [Script-Ware](https://web.archive.org/web/20220421142618/docs.script-ware.com/the-script-ware-api) | Official, Archived | Navigate through site using `Open Link in New Tab` only,<br />otherwise you might not get redirected.<br />If that still doesn't work -<br />try removing `web/allnumbers/` from the link then pressing `ENTER` |
