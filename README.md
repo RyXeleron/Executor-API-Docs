@@ -38,6 +38,7 @@
 | [Script-Ware](https://web.archive.org/web/20220421142618/docs.script-ware.com/the-script-ware-api) | Official, Archived | Navigate through site using `Open Link in New Tab` only,<br />otherwise you might not get redirected.<br />If that still doesn't work -<br />try removing `web/allnumbers/` from the link then pressing `ENTER` |
 | [Sentinel](https://luau.github.io/Executor-API-Docs/Sentinel) | Unofficial, Archived | Author: greenmangaming.com ([Github](https://github.com/TehBlaxxor), [Discord](https://discordapp.com/users/577282206079385610))
 | [SirHurt V4](https://www.sirhurt.net/login/API.html) | Official
+| [Solara](https://github.com/quivings/Solara/blob/main/Storage/docs.txt) | Official
 | [Synapse X](https://web.archive.org/docs.synapse.to) | Official, Archived
 | [[OLD] Synapse X](https://luau.github.io/Executor-API-Docs) | Official, Outdated
 | [[OLD] Synapse X](https://github.com/luau/Executor-API-Docs/wiki) | Official, Outdated
