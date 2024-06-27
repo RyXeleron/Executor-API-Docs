@@ -37,7 +37,7 @@
 | [ProtoSmasher](https://luau.github.io/Executor-API-Docs/ProtoSmasher%20Latest) | Official, Archived
 | [[OLD] ProtoSmasher](https://web.archive.org/docs.protosmasher.net) | Official, Archived
 | [[OLD] ProtoSmasher](https://luau.github.io/Executor-API-Docs/ProtoSmasher) | Official, Outdated
-| [Rainer](https://web.archive.org/https://developer.rainerexploit.xyz/) | Official, Archived
+| [Rainer](https://web.archive.org/https://developer.rainerexploit.xyz/) | Official, Archived |  Author: MisterGunXD#4516 ([Discord](https://discordapp.com/users/318824212020330496))
 | [RO-EXEC (Krampus/loader.live)](https://web.archive.org/docs.krampus.gg/) | Official
 | [[OLD] RO-EXEC (Krampus/loader.live)](https://web.archive.org/web/20240314125602/krampus-organization.gitbook.io/loader.live-ro-exec-documentation) | Official, Outdated | **Warning**: Google flags the site as harmful
 | [Script-Ware](https://web.archive.org/web/20220421142618/docs.script-ware.com/the-script-ware-api) | Official, Archived | Navigate through site using `Open Link in New Tab` only,<br />otherwise you might not get redirected.<br />If that still doesn't work -<br />try removing `web/allnumbers/` from the link then pressing `ENTER` |
