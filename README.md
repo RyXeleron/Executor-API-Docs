@@ -64,13 +64,17 @@
 
 * We recommend using `https://web.archive.org/web/*/example.com` for ***Snapshot Calendar*** and `https://web.archive.org/web/*/example.com/*` for ***URL Table List***, make sure to replace `example.com` with the website domain that you're looking to inspect (without `https://`). This site (https://archivarix.com/en/) should format the links automatically for you after you enter your desired domain into the domain textbox:
 <br /><br />![Example](https://github.com/luau/Executor-API-Docs/assets/95628489/6e588d90-cb58-4f44-990e-083ceeecb784)
+Another approach is to use the Web Archive api directly, example: `https://web.archive.org/cdx/search/cdx?url=*.krampus.gg/`. This way you can inspect all the domains & subdomains that were archived.
 
 | Site | Tags | Notes
 | :- | :- | -
 | [Hexus](https://forum.hexus.xyz/t/hexus-functions/6885/2) | Official | Thread: https://v3rmillion.net/showthread.php?tid=638069<br />OG Executor, which makes the documentation rare!
 | [Elysian, Synapse X, ProtoSmasher](https://wally-rblx.github.io/rbxdocs.github.io) | Unofficial | Authors: Wallythebird ([Github](https://github.com/wally-rblx), [Discord](https://discordapp.com/users/727303510185607279)) & Nexure ([Github](https://github.com/Nexure), [Discord](https://discordapp.com/users/531933495598252042)),<br />Thread: https://v3rmillion.net/showthread.php?tid=904313
+| [Magnius](https://magnius.xyz/) | Official | Thread: https://forum.wearedevs.net/t/20523
 | [Script-Ware](https://dev.script-ware.com) | Official
-| [Visenya](https://targaryentech.com/api.html) | Official | Other Links: https://variablehosting.net/Visenya/api.html<br />Thread: https://v3rmillion.net/showthread.php?tid=621711<br />OG Executor, which makes the documentation rare!
+| [Vashta (formerly Veil)](https://api.vashta.io/) | Official | Other Links: https://forum.vashta.io/t/offical-release-vashta-veil-2-0-apology/5989<br />OG Executor, which makes the documentation rare!
+| [Visenya (formerly Stella V)](https://targaryentech.com/api.html) | Official | Other Links: https://variablehosting.net/Visenya/api.html<br />Thread: https://v3rmillion.net/showthread.php?tid=621711<br />OG Executor, which makes the documentation rare!
+
 # Useful Links
 | Site | Description | Notes
 | :- | :- | -
