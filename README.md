@@ -21,6 +21,7 @@
 | [Celery](https://web.archive.org/web/20220416001215/github.com/thedoomed/Celery) | Unofficial, Archived | Includes Rare RakNet Docs!
 | [Celery RakNet Library](https://gist.github.com/jLn0n/16c2ce3c0c1fc1b6b76949715077da7a/cedf1629355ab858d6d47846b10e02bb37ea704f) | Unofficial, Outdated | Includes Rare RakNet Docs!<br />Author: jalon ([Github](https://github.com/jLn0n), [Discord](https://discordapp.com/users/474555624219344906))
 | [Comet](https://paficent.github.io/CometDocs/) | Unofficial, Outdated | Other Undocumented Functions: https://github.com/Paficent/CometDocs/blob/gh-pages/OtherFunctions.md
+| [Cyber](https://luau.github.io/Executor-API-Docs/Cyber) | Unofficial, Archived | Author: greenmangaming.com ([Github](https://github.com/greenmancode), [Discord](https://discordapp.com/users/577282206079385610))
 | [DX9WARE](https://cultofintellect.com/docs/DX9WARE/DX9WARE%20LUA/introduction.html) | Official
 | [Bunni.lol](https://bunni.lol/docs) | Official
 | [Elysian](https://luau.github.io/Executor-API-Docs/Elysian) | Official, Archived
@@ -65,7 +66,10 @@
 
 * We recommend using `https://web.archive.org/web/*/example.com` for ***Snapshot Calendar*** and `https://web.archive.org/web/*/example.com/*` for ***URL Table List***, make sure to replace `example.com` with the website domain that you're looking to inspect (without `https://`). This site (https://archivarix.com/en/) should format the links automatically for you after you enter your desired domain into the domain textbox:
 <br /><br />![Example](https://github.com/luau/Executor-API-Docs/assets/95628489/6e588d90-cb58-4f44-990e-083ceeecb784)
+
 Another approach is to use the Web Archive api directly, example: `https://web.archive.org/cdx/search/cdx?url=*.krampus.gg/`. This way you can inspect all the domains & subdomains that were archived.
+
+Also, you can use this site https://archive.softwareheritage.org/browse which archives all sort of code.
 
 | Site | Tags | Notes
 | :- | :- | -
@@ -74,8 +78,9 @@ Another approach is to use the Web Archive api directly, example: `https://web.a
 | [Magnius](https://magnius.xyz/) | Official | Thread: https://forum.wearedevs.net/t/20523
 | [Noobhaxx](https://gist.github.com/greenmancode/b069b35df2135a3430c80795a7cd672a) | Unofficial | Author: greenmangaming.com ([Github](https://github.com/greenmancode), [Discord](https://discordapp.com/users/577282206079385610))
 | [Script-Ware](https://dev.script-ware.com) | Official
-| [Vashta (formerly Veil)](https://api.vashta.io/) | Official | Other Links: https://forum.vashta.io/t/offical-release-vashta-veil-2-0-apology/5989<br />OG Executor, which makes the documentation rare!
-| [Visenya (formerly Stella V)](https://targaryentech.com/api.html) | Official | Other Links: https://variablehosting.net/Visenya/api.html<br />Thread: https://v3rmillion.net/showthread.php?tid=621711<br />OG Executor, which makes the documentation rare!
+| [Sweethart of Sigma Chi (SOSC)](https://sweetheart-of-sigma-chi.com/docs) | Official | Redirects to https://cdn.calamari.cc/ssc/sonblows.pdf
+| [Vashta (formerly Veil)](https://api.vashta.io/) | Official | Merged into Sentinel. Other Links: https://forum.vashta.io/t/offical-release-vashta-veil-2-0-apology/5989<br />OG Executor, which makes the documentation rare!
+| [Visenya (formerly Stella V)](https://targaryentech.com/api.html) | Official | Merged into Synapse X. Other Links: https://variablehosting.net/Visenya/api.html<br />Thread: https://v3rmillion.net/showthread.php?tid=621711<br />OG Executor, which makes the documentation rare!
 
 # Useful Links
 | Site | Description | Notes
