@@ -31,9 +31,9 @@
 | [Fluxus](https://fluxusrbx.gitbook.io/) | Official, Outdated
 | [Hexus](https://github.com/customality/hexus) | Official, Outdated
 | [KRNL](https://app.archbee.com/public/2Jp4SDaAD4P1COFfx1p_t) | Unofficial | Author: zzerexx ([Github](https://github.com/zzerexx), [Discord](https://discordapp.com/users/292756593412669440))
-| [KRNL](https://docs.krnl.ca) | Official
-| [KRNL](https://github.com/bruvzz/krnldoc/tree/main/src) | Unofficial
-| [Oxygen U](https://oxygenu.xyz/docs/book) | Official
+| [KRNL](https://web.archive.org/https://docs.krnl.ca/) | Official | Author: bruvzz ([Github](https://github.com/bruvzz)) Source: https://github.com/bruvzz/krnldoc
+| [KRNL Predocs](https://web.archive.org/web/20220703164205/https://krnl.place/predocs.html) | Official | Author: Someone Insane#9501
+| [Oxygen U](https://oxygenu.xyz/docs/book) | Official : Author: bruvzz ([Github](https://github.com/bruvzz)) Source: https://github.com/bruvzz/oxydoc
 | [[OLD] Oxygen U](https://oxygenu.xyz/docs.html) | Official, Outdated
 | [[OLD] Oxygen U](https://github.com/iDevastate/Oxygen-v2/blob/main/docs.txt) | Official, Outdated
 | [ProtoSmasher](https://luau.github.io/Executor-API-Docs/ProtoSmasher%20Latest) | Official, Archived
@@ -76,6 +76,9 @@ Also, you can use this site https://archive.softwareheritage.org/browse which ar
 | :- | :- | -
 | [Hexus](https://forum.hexus.xyz/t/hexus-functions/6885/2) | Official | Thread: https://v3rmillion.net/showthread.php?tid=638069<br />OG Executor, which makes the documentation rare!
 | [Elysian, Synapse X, ProtoSmasher](https://wally-rblx.github.io/rbxdocs.github.io) | Unofficial | Authors: Wallythebird ([Github](https://github.com/wally-rblx), [Discord](https://discordapp.com/users/727303510185607279)) & Nexure ([Github](https://github.com/Nexure), [Discord](https://discordapp.com/users/531933495598252042)),<br />Thread: https://v3rmillion.net/showthread.php?tid=904313
+| [KRNL](https://krnl.place/docs) | Official, Outdated
+| [KRNL](https://krnl.rocks/docs) | Official, Outdated
+| [KRNL](https://docs.krnl.rocks/) | Official, Outdated
 | [Magnius](https://magnius.xyz/) | Official | Thread: https://forum.wearedevs.net/t/20523
 | [Noobhaxx](https://gist.github.com/greenmancode/b069b35df2135a3430c80795a7cd672a) | Unofficial | Author: greenmangaming.com ([Github](https://github.com/greenmancode), [Discord](https://discordapp.com/users/577282206079385610))
 | [Script-Ware](https://dev.script-ware.com) | Official
