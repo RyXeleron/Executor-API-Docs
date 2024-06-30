@@ -25,6 +25,7 @@
 | [DX9WARE](https://cultofintellect.com/docs/DX9WARE/DX9WARE%20LUA/introduction.html) | Official
 | [Bunni.lol](https://bunni.lol/docs) | Official
 | [Elysian](https://luau.github.io/Executor-API-Docs/Elysian) | Official, Archived
+| [[OLD] Elysian](https://luau.github.io/Executor-API-Docs/Elysian%202017) | Official, Archived
 | [Fluster Zero](https://web.archive.org/docs.fluster.world/ ) | Official, Archived
 | [Fluxus Android](https://github.com/YieldingFluxus/android-documentation) | Unofficial, Outdated
 | [Fluxus](https://fluxusrbx.gitbook.io/) | Official, Outdated

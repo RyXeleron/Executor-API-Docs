@@ -1,0 +1,143 @@
+<html>
+	<head>
+		<title>Elysian Documentation</title>
+		<style>
+			#center {
+				width:800px;
+				margin:0 auto;
+			}
+
+			body {
+				font-family: 'Source Sans Pro', Arial, Helvetica, sans-serif;
+			}
+
+			h2, code {
+				margin:0;
+			}
+		</style>
+	</head>
+	<body>
+		<div id="center">
+			<h2><b>getrawmetatable</b></h3>
+			<code><b><span style = "color:red">table</span> getrawmetatable(variant<<span style = "color:green">table</span>, <span style = "color:green">userdata</span>> obj)</b></code>
+			<p>Returns the metatable from a table or userdata, even if its locked.<p> <br>
+
+			<h2><b>setrawmetatable</b></h3>
+			<code><b><span style = "color:red">boolean</span> setrawmetatable(variant<<span style = "color:green">table</span>, <span style = "color:green">userdata</span>> obj, <span style = "color:green">table</span> val)</b></code>
+			<p>Sets the metatable of a table or userdata, even if its locked.<p> <br>
+
+			<h2><b>isreadonly</b></h3>
+			<code><b><span style = "color:red">boolean</span> isreadonly(<span style = "color:green">table</span> val)</b></code>
+			<p>Returns true if the table is read-only, false if it isn't.<p> <br>
+
+			<h2><b>setreadonly</b></h3>
+			<code><b><span style = "color:red">boolean</span> setreadonly(<span style = "color:green">table</span> tab, <span style = "color:green">boolean</span> readonly)</b></code>
+			<p>Sets the read-only flag of a table.<p> <br>
+
+			<h2><b>printconsole</b></h3>
+			<code><b><span style = "color:red">boolean</span> printconsole(<span style = "color:green">string</span> val [, <span style = "color:green">number</span> r, <span style = "color:green">number</span> g, <span style = "color:green">number</span> b])</b></code>
+			<p>Prints val to Elysian's console with color r, g, b. Default color is 0, 0, 200.<p> <br>
+
+			<h2><b>printdebug</b></h3>
+			<code><b><span style = "color:red">boolean</span> printdebug(<span style = "color:green">string</span> val)</b></code>
+			<p>Prints val to the console (View->Console->Toggle)<p> <br>
+
+			<h2><b>getobjects</b></h3>
+			<code><b><span style = "color:red">Instance...</span> getobjects(<span style = "color:green">string</span> content)</b></code>
+			<p>Internal function used by DataModel::GetObjects (see init.lua)<p> <br>
+
+			<h2><b>readfile</b></h3>
+			<code><b><span style = "color:red">string</span> readfile(<span style = "color:green">string</span> filename)</b></code>
+			<p>Returns the contents of the file in the workspace folder<p> <br>
+
+			<h2><b>loadfile</b></h3>
+			<code><b><span style = "color:red">function</span> loadfile(<span style = "color:green">string</span> filename)</b></code>
+			<p>Loads a file from the workspace folder. Returns nil and an error on error. Similar to calling loadstring(readfile(filename)).<p> <br>
+
+			<h2><b>getgenv</b></h3>
+			<code><b><span style = "color:red">table</span> getgenv()</b></code>
+			<p>Returns the global environment for Elysian.<p> <br>
+
+			<h2><b>getrenv</b></h3>
+			<code><b><span style = "color:red">table</span> getrenv()</b></code>
+			<p>Returns the game's scripts' global environment.<p> <br>
+
+			<h2><b>Clipboard::set</b></h3>
+			<code><b><span style = "color:red">boolean</span> Clipboard.set(<span style = "color:green">string</span> data)</b></code>
+			<p>Sets the clipboard to `data`.<p> <br>
+
+			<h2><b>mouse1press</b></h3>
+			<code><b><span style = "color:red">void</span> mouse1press()</b></code>
+			<p>Presses the left mouse button.<p> <br>
+
+			<h2><b>mouse1release</b></h3>
+			<code><b><span style = "color:red">void</span> mouse1release()</b></code>
+			<p>Releases the left mouse button.<p> <br>
+
+			<h2><b>mouse1click</b></h3>
+			<code><b><span style = "color:red">void</span> mouse1click([<span style = "color:green">number</span> delay])</b></code>
+			<p>Clicks the left mouse button with an optional delay in between. Delay default is ~0.03 seconds.<p> <br>
+
+			<h2><b>mouse2press</b></h3>
+			<code><b><span style = "color:red">void</span> mouse2press()</b></code>
+			<p>Presses the right mouse button.<p> <br>
+
+			<h2><b>mouse2release</b></h3>
+			<code><b><span style = "color:red">void</span> mouse2release()</b></code>
+			<p>Releases the right mouse button.<p> <br>
+
+			<h2><b>mouse2click</b></h3>
+			<code><b><span style = "color:red">void</span> mouse2click([<span style = "color:green">number</span> delay])</b></code>
+			<p>Clicks the right mouse button with an optional delay in between. Delay default is ~0.03 seconds.<p> <br>
+
+			<h2><b>keypress</b></h3>
+			<code><b><span style = "color:red">void</span> keypress(<span style = "color:green">number</span> virtualkey)</b></code>
+			<p>Presses key `virtualkey`. Use <a href="https://msdn.microsoft.com/en-us/library/windows/desktop/dd375731(v=vs.85).aspx">this</a> for reference.<p> <br>
+
+			<h2><b>keyrelease</b></h3>
+			<code><b><span style = "color:red">void</span> keyrelease(<span style = "color:green">number</span> virtualkey)</b></code>
+			<p>Releases key `virtualkey`<p> <br>
+
+			<h2><b>mousemoverel</b></h3>
+			<code><b><span style = "color:red">void</span> mousemoverel(<span style = "color:green">number</span> x, <span style = "color:green">number</span> y)</b></code>
+			<p>Moves the cursor relatively. <p> <br>
+
+			<h2><b>mousescroll</b></h3>
+			<code><b><span style = "color:red">void</span> mousescroll(<span style = "color:green">number</span> amount)</b></code>
+			<p>A positive number scrolls the mouse up and a negative number scrolls the mouse down. Use <a href="https://msdn.microsoft.com/en-us/library/windows/desktop/ms646273(v=vs.85).aspx">this</a> for reference.<p> <br>
+
+			<h2><b>writefile</b></h3>
+			<code><b><span style = "color:red">boolean</span> writefile(<span style = "color:green">string</span> filename, <span style = "color:green">string</span> data [, <span style = "color:green">boolean</span> binary])</b></code>
+			<p>Writes `data` to a file in the workspace folder. Returns true if successful. <p> <br>
+
+			<h2><b>saveinstance</b></h3>
+			<code><b><span style = "color:red">boolean</span> saveinstance(<span style = "color:green">string</span> filename, <span style = "color:green">Instance</span> instance)</b></code>
+			<p>Saves an instance to a file in the workspace folder which can be later opened in Studio. NOTE: This function is currently disabled.<p> <br>
+
+			<h2><b>decompile</b></h3>
+			<code><b><span style = "color:red">string</span> decompile(variant<<span style = "color:green">Instance</span>, <span style = "color:green">function</span>> script [, <span style = "color:green">string</span> option])</b></code>
+			<p>Attempts to decompile `script` and returns the result. If `option` is provided and equal to "dump", lua bytecode will be returned (similar to string.dump). It should be noted that due to Roblox's changes to Lua's VM and parser this bytecode is not reliable to use with other decompilers, i.e. unluac. Returns nil and an error message on error.<p> <br>
+
+			<h2><b>checkcaller</b></h3>
+			<code><b><span style = "color:red">boolean</span> checkcaller()</b></code>
+			<p>Returns true if the function calling the function calling checkcaller is an Elysian function.<p> <br>
+
+			<h2><b>setfflag</b></h3>
+			<code><b><span style = "color:red">boolean</span> setfflag(<span style = "color:green">string</span> fflag, <span style = "color:green">string</span> value)</b></code>
+			<p>Sets an FFlag's value. Returns true if the flag was set succesfully or false if the flag doesn't exist. For more information on FFlag's and how to retrieve their values, see: <a href="http://wiki.roblox.com/index.php?title=API:Class/GlobalSettings/GetFFlag" target="_blank">http://wiki.roblox.com/index.php?title=API:Class/GlobalSettings/GetFFlag</a><p> <br>
+
+			<h2><b>getreg</b></h3>
+			<code><b><span style = "color:red">table</span> getreg()</b></code>
+			<p>Returns Lua's registry (LUA_REGISTRYINDEX).<p> <br>
+
+			<h2><b>getnilinstances</b></h3>
+			<code><b><span style = "color:red">table</span> getnilinstances()</b></code>
+			<p>Returns a list of nil instances.<p> <br>
+
+			<h2><b>elysianexecute</b></h3>
+			<code><b><span style = "color:red">void</span> elysianexecute(<span style = "color:green">string</span> script [, <span style = "color:green">Instance</span> localscript])</b></code>
+			<p>Equivalent to executing a script through Elysian's interface (pressing the execute button, etc). If 'localscript' is provided, the script will be binded/linked to that instance. If not present, a new LocalScript will be created.<p> <br>
+
+		</div>
+	</body>
+</html>
