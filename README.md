@@ -15,7 +15,7 @@
 | Site | Tags | Notes
 | :- | :- | -
 | [Arceus X](https://app.archbee.com/public/GTONzNA7evjrQC6ZE_BLZ/2lbM6e2QyZJCefiVR2qKy) | Unofficial
-| [Athena](https://web.archive.org/web/20180406063027/http://tacticalbfg.com:80/Athena/docs) | Official, Archived
+| [Athena](https://web.archive.org/web/20180406063027/tacticalbfg.com:80/Athena/docs) | Official, Archived
 | [Calamari](https://web.archive.org/calamari.cc/Environment) | Official, Archived | Redirects to https://forum.calamari.cc/showthread.php?tid=401
 | [Celery](https://celeryrblx.github.io) | Unofficial | Includes Rare RakNet Docs!
 | [Celery](https://web.archive.org/web/20220416001215/github.com/thedoomed/Celery) | Unofficial, Archived | Includes Rare RakNet Docs!
@@ -33,7 +33,7 @@
 | [Hexus](https://github.com/customality/hexus) | Official, Outdated
 | [KRNL](https://app.archbee.com/public/2Jp4SDaAD4P1COFfx1p_t) | Unofficial | Author: zzerexx ([Github](https://github.com/zzerexx), [Discord](https://discordapp.com/users/292756593412669440))
 | [KRNL](https://web.archive.org/docs.krnl.ca/) | Official | Author: bruvzz ([Github](https://github.com/bruvzz)) Source: https://github.com/bruvzz/krnldoc
-| [KRNL Predocs](https://web.archive.org/web/20220703164205/https://krnl.place/predocs.html) | Official | Author: Someone Insane#9501
+| [KRNL Predocs](https://web.archive.org/web/20220703164205/krnl.place/predocs.html) | Official | Author: Someone Insane#9501
 | [Oxygen U](https://oxygenu.xyz/docs/book) | Official : Author: bruvzz ([Github](https://github.com/bruvzz)) Source: https://github.com/bruvzz/oxydoc
 | [[OLD] Oxygen U](https://oxygenu.xyz/docs.html) | Official, Outdated
 | [[OLD] Oxygen U](https://github.com/iDevastate/Oxygen-v2/blob/main/docs.txt) | Official, Outdated
@@ -45,7 +45,7 @@
 | [[OLD] RO-EXEC (Krampus/loader.live)](https://web.archive.org/web/20240314125602/krampus-organization.gitbook.io/loader.live-ro-exec-documentation) | Official, Outdated | **Warning**: Google flags the site as harmful
 | [Script-Ware](https://web.archive.org/web/20220421142618/docs.script-ware.com/the-script-ware-api) | Official, Archived | Navigate through site using `Open Link in New Tab` only,<br />otherwise you might not get redirected.<br />If that still doesn't work -<br />try removing `web/allnumbers/` from the link then pressing `ENTER` |
 | [Sentinel](https://luau.github.io/Executor-API-Docs/Sentinel) | Unofficial, Archived | Author: greenmangaming.com ([Github](https://github.com/greenmancode), [Discord](https://discordapp.com/users/577282206079385610))
-| [Sentinel V2](https://web.archive.org/web/20230711121750/https://gist.github.com/greenmancode/b0502e93c08190250d2278a545253d9c) | Unofficial, Archived | Author: greenmangaming.com ([Github](https://github.com/greenmancode), [Discord](https://discordapp.com/users/577282206079385610))
+| [Sentinel V2](https://web.archive.org/web/20230711121750/gist.github.com/greenmancode/b0502e93c08190250d2278a545253d9c) | Unofficial, Archived | Author: greenmangaming.com ([Github](https://github.com/greenmancode), [Discord](https://discordapp.com/users/577282206079385610))
 | [SirHurt V4](https://www.sirhurt.net/login/API.html) | Official
 | [Solara](https://github.com/quivings/Solara/blob/main/Storage/docs.txt) | Official
 | [Synapse X](https://web.archive.org/docs.synapse.to) | Official, Archived
