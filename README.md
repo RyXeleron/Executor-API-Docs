@@ -24,6 +24,7 @@
 | [Cyber](https://luau.github.io/Executor-API-Docs/Cyber) | Unofficial, Archived | Author: greenmangaming.com ([Github](https://github.com/greenmancode), [Discord](https://discordapp.com/users/577282206079385610))
 | [DX9WARE](https://cultofintellect.com/docs/DX9WARE/DX9WARE%20LUA/introduction.html) | Official
 | [Bunni.lol](https://bunni.lol/docs) | Official
+| [Electron](https://web.archive.org/ryos.lol/api/EDocs.html) | Official, Archived
 | [Elysian](https://luau.github.io/Executor-API-Docs/Elysian) | Official, Archived
 | [[OLD] Elysian](https://luau.github.io/Executor-API-Docs/Elysian%202017) | Official, Archived
 | [Fluster Zero](https://web.archive.org/docs.fluster.world/ ) | Official, Archived
@@ -31,7 +32,7 @@
 | [Fluxus](https://fluxusrbx.gitbook.io/) | Official, Outdated
 | [Hexus](https://github.com/customality/hexus) | Official, Outdated
 | [KRNL](https://app.archbee.com/public/2Jp4SDaAD4P1COFfx1p_t) | Unofficial | Author: zzerexx ([Github](https://github.com/zzerexx), [Discord](https://discordapp.com/users/292756593412669440))
-| [KRNL](https://web.archive.org/https://docs.krnl.ca/) | Official | Author: bruvzz ([Github](https://github.com/bruvzz)) Source: https://github.com/bruvzz/krnldoc
+| [KRNL](https://web.archive.org/docs.krnl.ca/) | Official | Author: bruvzz ([Github](https://github.com/bruvzz)) Source: https://github.com/bruvzz/krnldoc
 | [KRNL Predocs](https://web.archive.org/web/20220703164205/https://krnl.place/predocs.html) | Official | Author: Someone Insane#9501
 | [Oxygen U](https://oxygenu.xyz/docs/book) | Official : Author: bruvzz ([Github](https://github.com/bruvzz)) Source: https://github.com/bruvzz/oxydoc
 | [[OLD] Oxygen U](https://oxygenu.xyz/docs.html) | Official, Outdated
