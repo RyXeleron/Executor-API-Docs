@@ -25,6 +25,7 @@
 | [DX9WARE](https://cultofintellect.com/docs/DX9WARE/DX9WARE%20LUA/introduction.html) | Official
 | [Bunni.lol](https://bunni.lol/docs) | Official
 | [Electron](https://web.archive.org/ryos.lol/api/EDocs.html) | Official, Archived
+| [Elysian, ProtoSmasher, Synapse X](https://luau.github.io/wally-rbxdocs) | Unofficial, Archived | Authors: Wallythebird ([Github](https://github.com/wally2471), [Discord](https://discordapp.com/users/727303510185607279)) & Nexure ([Github](https://github.com/Nexure), [Discord](https://discordapp.com/users/531933495598252042)) & Burkino ([Github](https://github.com/Burkino), [Discord](https://discordapp.com/users/342202302142087168)),<br />Thread: https://v3rmillion.net/showthread.php?tid=904313
 | [Elysian](https://luau.github.io/Executor-API-Docs/Elysian) | Official, Archived
 | [[OLD] Elysian](https://luau.github.io/Executor-API-Docs/Elysian%202017) | Official, Archived
 | [Fluster Zero](https://web.archive.org/docs.fluster.world/ ) | Official, Archived
@@ -76,7 +77,6 @@ Also, you can use this site https://archive.softwareheritage.org/browse which ar
 | Site | Tags | Notes
 | :- | :- | -
 | [Hexus](https://forum.hexus.xyz/t/hexus-functions/6885/2) | Official | Thread: https://v3rmillion.net/showthread.php?tid=638069<br />OG Executor, which makes the documentation rare!
-| [Elysian, Synapse X, ProtoSmasher](https://wally-rblx.github.io/rbxdocs.github.io) | Unofficial | Authors: Wallythebird ([Github](https://github.com/wally-rblx), [Discord](https://discordapp.com/users/727303510185607279)) & Nexure ([Github](https://github.com/Nexure), [Discord](https://discordapp.com/users/531933495598252042)),<br />Thread: https://v3rmillion.net/showthread.php?tid=904313
 | [KRNL](https://krnl.place/docs) | Official, Outdated
 | [KRNL](https://krnl.rocks/docs) | Official, Outdated
 | [KRNL](https://docs.krnl.rocks/) | Official, Outdated
