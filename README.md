@@ -22,7 +22,7 @@
 | [Celery](https://web.archive.org/web/20220416001215/github.com/thedoomed/Celery) | Unofficial, Archived | Includes Rare RakNet Docs!
 | [Celery RakNet Library](https://gist.github.com/jLn0n/16c2ce3c0c1fc1b6b76949715077da7a/cedf1629355ab858d6d47846b10e02bb37ea704f) | Unofficial, Outdated | Includes Rare RakNet Docs!<br />Author: jalon ([Github](https://github.com/jLn0n), [Discord](https://discordapp.com/users/474555624219344906))
 | [Comet](https://paficent.github.io/CometDocs/) | Unofficial, Outdated | Other Undocumented Functions: https://github.com/Paficent/CometDocs/blob/gh-pages/OtherFunctions.md
-| [Cyber](https://luau.github.io/Executor-API-Docs/Cyber) | Unofficial, Archived | Author: greenmangaming.com ([Github](https://github.com/greenmancode), [Discord](https://discordapp.com/users/577282206079385610))
+| [Cyber](https://luau.github.io/Executor-API-Docs/Cyber) | Unofficial, Archived | Author: greenmangaming.com ([Github](https://github.com/greenmancode), [Discord](https://discordapp.com/users/577282206079385610)), [Source](https://archive.softwareheritage.org/browse/origin/directory/?origin_url=https://github.com/greenmancode/docs)
 | [DX9WARE](https://cultofintellect.com/docs/DX9WARE/DX9WARE%20LUA/introduction.html) | Official
 | [Bunni.lol](https://bunni.lol/docs) | Official
 | [Electron](https://web.archive.org/ryos.lol/api/EDocs.html) | Official, Archived
@@ -42,7 +42,8 @@
 | [ProtoSmasher](https://luau.github.io/Executor-API-Docs/ProtoSmasher%20Latest) | Official, Archived
 | [[OLD] ProtoSmasher](https://web.archive.org/docs.protosmasher.net) | Official, Archived
 | [[OLD] ProtoSmasher](https://luau.github.io/Executor-API-Docs/ProtoSmasher) | Official, Outdated
-| [Rainer](https://web.archive.org/https://developer.rainerexploit.xyz/) | Official, Archived |  Author: MisterGunXD#4516 ([Discord](https://discordapp.com/users/318824212020330496))
+| [Raindrop](https://luau.github.io/Executor-API-Docs/Raindrop) | Official, Archived |  Author: 3dsboy08 ([Github](https://github.com/3dsboy08), [Discord](https://discordapp.com/users/529155884643909643)), [Source](https://archive.softwareheritage.org/browse/origin/directory/?origin_url=https://github.com/3dsboy08/3dsboy08.github.io)
+| [Rainer](https://web.archive.org/https://developer.rainerexploit.xyz/) | Official, Archived |  Author: MisterGunXD ([Github](https://github.com/MisterGunXD), [Discord](https://discordapp.com/users/318824212020330496))
 | [RO-EXEC (Krampus/loader.live)](https://web.archive.org/docs.krampus.gg/) | Official
 | [[OLD] RO-EXEC (Krampus/loader.live)](https://web.archive.org/web/20240314125602/krampus-organization.gitbook.io/loader.live-ro-exec-documentation) | Official, Outdated | **Warning**: Google flags the site as harmful
 | [Script-Ware](https://web.archive.org/web/20220421142618/docs.script-ware.com/the-script-ware-api) | Official, Archived | Navigate through site using `Open Link in New Tab` only,<br />otherwise you might not get redirected.<br />If that still doesn't work -<br />try removing `web/allnumbers/` from the link then pressing `ENTER` |

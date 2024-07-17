@@ -1,0 +1,84 @@
+<!--Raindrop Documentation-->
+<html>
+    <head>
+       <title>Raindrop Documentation - v2.0.0</title> 
+    </head>
+    <body>
+        <p style="font-family:consolas;text-align:center;font-size:160%;background-color:powderblue;color:black"><b>Raindrop Documentation</b></p>
+        
+        <div style="background: #ffffff; overflow:auto;width:auto;border:solid gray;border-width:.1em .1em .1em .8em;padding:.2em .6em;"><pre style="margin: 0; line-height: 125%"><span style="color: #008800; font-weight: bold">void</span> Raindrop:AddCommand(<span style="color: #333399; font-weight: bold">string</span> command, <span style="color: #333399; font-weight: bold">int</span> arguments, function callback)</pre></div>
+        
+        <p style="font-family:consolas;font-size:95%">Adds a command to the Raindrop command system.</p><br>
+        
+        <div style="background: #ffffff; overflow:auto;width:auto;border:solid gray;border-width:.1em .1em .1em .8em;padding:.2em .6em;"><pre style="margin: 0; line-height: 125%"><span style="color: #008800; font-weight: bold">void</span> Raindrop:MessageBox(<span style="color: #333399; font-weight: bold">string</span> text, <span style="color: #333399; font-weight: bold">string</span> title)</pre></div>
+        
+        <p style="font-family:consolas;font-size:95%">Sends a messagebox to the user. <br><b>WARNING:</b> This will block execution flow until the message box is accepted (freezing ROBLOX!). If you do not want this, use Raindrop:MessageBoxAsync.</p><br>
+        
+        <div style="background: #ffffff; overflow:auto;width:auto;border:solid gray;border-width:.1em .1em .1em .8em;padding:.2em .6em;"><pre style="margin: 0; line-height: 125%"><span style="color: #008800; font-weight: bold">async</span> <span style="color: #008800; font-weight: bold">void</span> Raindrop:MessageBoxAsync(<span style="color: #333399; font-weight: bold">string</span> text, <span style="color: #333399; font-weight: bold">string</span> title)</pre></div>
+        
+        <p style="font-family:consolas;font-size:95%">Sends a messagebox to the user async. <br><b>NOTE:</b> This method runs async, so this will <b>NOT</b> block execution flow! (aka your code will continue even after the message box is shown)</p><br>
+        
+        <div style="background: #ffffff; overflow:auto;width:auto;border:solid gray;border-width:.1em .1em .1em .8em;padding:.2em .6em;"><pre style="margin: 0; line-height: 125%"><span style="color: #333399; font-weight: bold">string</span> Raindrop:DownloadString(<span style="color: #333399; font-weight: bold">string</span> url)</pre></div>
+        
+        <p style="font-family:consolas;font-size:95%">Downloads data from the internet. This <b>supports</b> HTTPS and SSL/TLS.</p><br>
+        
+        <div style="background: #ffffff; overflow:auto;width:auto;border:solid gray;border-width:.1em .1em .1em .8em;padding:.2em .6em;"><pre style="margin: 0; line-height: 125%"><span style="color: #008800; font-weight: bold">void</span> Raindrop:CopyString(<span style="color: #333399; font-weight: bold">string</span> text)</pre></div>
+        
+        <p style="font-family:consolas;font-size:95%">Copies a string to the clipboard.</p><br>
+        
+        <div style="background: #ffffff; overflow:auto;width:auto;border:solid gray;border-width:.1em .1em .1em .8em;padding:.2em .6em;"><pre style="margin: 0; line-height: 125%"><span style="color: #008800; font-weight: bold">void</span> Raindrop:ExecuteCommand(<span style="color: #333399; font-weight: bold">string</span> command)</pre></div>
+        
+        <p style="font-family:consolas;font-size:95%">Executes a command from the Raindrop command system.</p><br>
+        
+        <div style="background: #ffffff; overflow:auto;width:auto;border:solid gray;border-width:.1em .1em .1em .8em;padding:.2em .6em;"><pre style="margin: 0; line-height: 125%">table&lt;index, instance&gt; Raindrop:FindPlayers(<span style="color: #333399; font-weight: bold">string</span> player)</pre></div>
+        
+        <p style="font-family:consolas;font-size:95%"><b>DEPRECATED: </b> Gets a table of players from the input string (ex: "me", "others", "all"). This command is mostly only used internally/for legacy scripts. Do not use for new work.</p><br>
+        
+        <div style="background: #ffffff; overflow:auto;width:auto;border:solid gray;border-width:.1em .1em .1em .8em;padding:.2em .6em;"><pre style="margin: 0; line-height: 125%">table&lt;RaindropConsoleLibrary&gt; Raindrop:GetConsole()</pre></div>
+        
+        <p style="font-family:consolas;font-size:95%">Gets the Raindrop Console system. Look below for console system.</p><br>
+        
+        <p style="font-family:consolas;text-align:center;font-size:160%;background-color:powderblue;color:black"><b>Raindrop Console Library</b></p>
+        
+        <div style="background: #ffffff; overflow:auto;width:auto;border:solid gray;border-width:.1em .1em .1em .8em;padding:.2em .6em;"><pre style="margin: 0; line-height: 125%"><span style="color: #008800; font-weight: bold">void</span> Raindrop:GetConsole():CreateConsole(<span style="color: #333399; font-weight: bold">string</span> name)</pre></div>
+        
+        <p style="font-family:consolas;font-size:95%">Creates a console. If it already exists, it will rename the console.</p><br>
+        
+        <div style="background: #ffffff; overflow:auto;width:auto;border:solid gray;border-width:.1em .1em .1em .8em;padding:.2em .6em;"><pre style="margin: 0; line-height: 125%"><span style="color: #008800; font-weight: bold">void</span> Raindrop:GetConsole():SetConsoleName(<span style="color: #333399; font-weight: bold">string</span> name)</pre></div>
+        
+        <p style="font-family:consolas;font-size:95%">Sets name of a console. If it doesnt exist, it will error with "console not created".</p><br>
+        
+        <div style="background: #ffffff; overflow:auto;width:auto;border:solid gray;border-width:.1em .1em .1em .8em;padding:.2em .6em;"><pre style="margin: 0; line-height: 125%"><span style="color: #008800; font-weight: bold">void</span> Raindrop:GetConsole():Write(<span style="color: #333399; font-weight: bold">string</span> text)</pre></div>
+                
+        <p style="font-family:consolas;font-size:95%">Writes text to the console. <b>NOTE:</b> This does <b>NOT</b> add a newline to the end of the text!</p><br>
+        
+        <div style="background: #ffffff; overflow:auto;width:auto;border:solid gray;border-width:.1em .1em .1em .8em;padding:.2em .6em;"><pre style="margin: 0; line-height: 125%"><span style="color: #008800; font-weight: bold">void</span> Raindrop:GetConsole():WriteLine(<span style="color: #333399; font-weight: bold">string</span> text)</pre></div>
+        
+        <p style="font-family:consolas;font-size:95%">Writes text to the console and adds a newline to the end.</p><br>
+        
+        <div style="background: #ffffff; overflow:auto;width:auto;border:solid gray;border-width:.1em .1em .1em .8em;padding:.2em .6em;"><pre style="margin: 0; line-height: 125%"><span style="color: #008800; font-weight: bold">async</span> <span style="color: #333399; font-weight: bold">string</span> Raindrop:GetConsole():ReadLine()</pre></div>
+        
+        <p style="font-family:consolas;font-size:95%">Yields until a piece of text is entered to the console and enter is pressed. (returns the text entered)</p><br>
+        
+        <div style="background: #ffffff; overflow:auto;width:auto;border:solid gray;border-width:.1em .1em .1em .8em;padding:.2em .6em;"><pre style="margin: 0; line-height: 125%"><span style="color: #008800; font-weight: bold">void</span> Raindrop:GetConsole():SetColor(Color color)</pre></div>
+        
+        <p style="font-family:consolas;font-size:95%">Sets console color. Color list (you can use Raindrop:GetConsole().ColorName to get the color): </p>
+        <div style="background: #ffffff; overflow:auto;width:auto;border:solid gray;border-width:.1em .1em .1em .8em;padding:.2em .6em;"><pre style="margin: 0; line-height: 125%">            Black
+            Blue
+            Green
+            Cyan
+            Red
+            Magenta
+            Brown
+            LightGray
+            DarkGray
+            LightBlue
+            LightGreen
+            LightCyan
+            LightRed
+            LightMagenta
+            Yellow
+            White</pre></div>
+        <br>
+    </body>
+</html>
