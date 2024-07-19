@@ -60,6 +60,7 @@
 | [Synapse X V3](https://web.archive.org/synllc.github.io/synapse-x-documentation) | Official, Archived (Latest)
 | [Unit](https://web.archive.org/github.com/unit-fun/Unit-Documentation) | Official, Archived
 | [Valkyrie](https://valkyrieofficial.vercel.app/docs/ValkyrieDocs.html) | Official
+| [Vash X](https://www.vashx.org/docs/api) | Official
 
 ## No Longer Working & Archive Missing
 ### Let us know if you have, find or get a working archive of any of these sites
