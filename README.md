@@ -58,6 +58,7 @@
 | [Synapse X Debug Library](https://gist.github.com/TehBlaxxor/c8022570fea9e48ab7a6a6ad23c7c671) | Unofficial, Outdated | Author: greenmangaming.com ([Github](https://github.com/greenmancode), [Discord](https://discordapp.com/users/577282206079385610))
 | [Synapse X Hidden](https://luau.github.io/Executor-API-Docs/Synapse%20X%20Hidden) | Unofficial, Outdated | Thread: https://v3rmillion.net/showthread.php?tid=879181
 | [Synapse X V3](https://web.archive.org/synllc.github.io/synapse-x-documentation) | Official, Archived (Latest)
+| [Synapse Z](https://synz.lol/docs) | Official
 | [Unit](https://web.archive.org/github.com/unit-fun/Unit-Documentation) | Official, Archived
 | [Valkyrie](https://valkyrieofficial.vercel.app/docs/ValkyrieDocs.html) | Official
 | [Vash X](https://www.vashx.org/docs/api) | Official
