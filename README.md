@@ -62,6 +62,7 @@
 | [Unit](https://web.archive.org/github.com/unit-fun/Unit-Documentation) | Official, Archived
 | [Valkyrie](https://valkyrieofficial.vercel.app/docs/ValkyrieDocs.html) | Official
 | [Vash X](https://www.vashx.org/docs/api) | Official
+| [Wave](https://duckys-playground.gitbook.io/wave/getting-started) | Official
 
 ## No Longer Working & Archive Missing
 ### Let us know if you have, find or get a working archive of any of these sites
@@ -80,10 +81,11 @@ Also, you can use this site https://archive.softwareheritage.org/browse which ar
 
 | Site | Tags | Notes
 | :- | :- | -
+| [Elysian](https://irishost.xyz/FileUploader/Iris/ElyDocs.html) | Unofficial | Author: Iris ([Github](https://github.com/RiisDev), [Discord](https://discordapp.com/users/465727038305599500))
 | [Hexus](https://forum.hexus.xyz/t/hexus-functions/6885/2) | Official | Thread: https://v3rmillion.net/showthread.php?tid=638069<br />OG Executor, which makes the documentation rare!
+| [KRNL](https://docs.krnl.rocks/) | Official, Outdated
 | [KRNL](https://krnl.place/docs) | Official, Outdated
 | [KRNL](https://krnl.rocks/docs) | Official, Outdated
-| [KRNL](https://docs.krnl.rocks/) | Official, Outdated
 | [Magnius](https://magnius.xyz/) | Official | Thread: https://forum.wearedevs.net/t/20523
 | [Noobhaxx](https://gist.github.com/greenmancode/b069b35df2135a3430c80795a7cd672a) | Unofficial | Author: greenmangaming.com ([Github](https://github.com/greenmancode), [Discord](https://discordapp.com/users/577282206079385610))
 | [Script-Ware](https://dev.script-ware.com) | Official
