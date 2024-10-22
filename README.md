@@ -36,6 +36,7 @@
 | [KRNL](https://web.archive.org/docs.krnl.ca/) | Official | Author: bruvzz ([Github](https://github.com/bruvzz)) Source: https://github.com/bruvzz/krnldoc
 | [KRNL](https://app.archbee.com/public/2Jp4SDaAD4P1COFfx1p_t) | Unofficial | Author: zzerexx ([Github](https://github.com/zzerexx), [Discord](https://discordapp.com/users/292756593412669440))
 | [KRNL Predocs](https://web.archive.org/web/20220703164205/krnl.place/predocs.html) | Official | Author: Someone Insane#9501
+| [Nihon](https://docs.nihon.lol/) | Official
 | [Oxygen U](https://oxygenu.xyz/docs/book) | Official : Author: bruvzz ([Github](https://github.com/bruvzz)) Source: https://github.com/bruvzz/oxydoc
 | [[OLD] Oxygen U](https://oxygenu.xyz/docs.html) | Official, Outdated
 | [[OLD] Oxygen U](https://github.com/iDevastate/Oxygen-v2/blob/main/docs.txt) | Official, Outdated
