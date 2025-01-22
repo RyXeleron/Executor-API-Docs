@@ -43,6 +43,7 @@
 | [ProtoSmasher](https://luau.github.io/Executor-API-Docs/ProtoSmasher%20Latest) | Official, Archived
 | [[OLD] ProtoSmasher](https://web.archive.org/docs.protosmasher.net) | Official, Archived
 | [[OLD] ProtoSmasher](https://luau.github.io/Executor-API-Docs/ProtoSmasher) | Official, Outdated
+| [RbxStu](https://docs.rbxstu.dev/) | Official |  Author: RbxStu ([Github](https://github.com/RbxStu), [Discord](https://discord.com/invite/yk24Y6XMKC))
 | [Raindrop](https://luau.github.io/Executor-API-Docs/Raindrop) | Official, Archived |  Author: 3dsboy08 ([Github](https://github.com/3dsboy08), [Discord](https://discordapp.com/users/529155884643909643)), [Source](https://archive.softwareheritage.org/browse/origin/directory/?origin_url=https://github.com/3dsboy08/3dsboy08.github.io)
 | [Rainer](https://web.archive.org/https://developer.rainerexploit.xyz/) | Official, Archived |  Author: MisterGunXD ([Github](https://github.com/MisterGunXD), [Discord](https://discordapp.com/users/318824212020330496))
 | [RO-EXEC (Krampus/loader.live)](https://web.archive.org/docs.krampus.gg/) | Official
