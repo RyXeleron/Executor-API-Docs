@@ -47,7 +47,7 @@
 | [Rainer](https://web.archive.org/https://developer.rainerexploit.xyz/) | Official, Archived |  Author: MisterGunXD ([Github](https://github.com/MisterGunXD), [Discord](https://discordapp.com/users/318824212020330496))
 | [RO-EXEC (Krampus/loader.live)](https://web.archive.org/docs.krampus.gg/) | Official
 | [[OLD] RO-EXEC (Krampus/loader.live)](https://web.archive.org/web/20240314125602/krampus-organization.gitbook.io/loader.live-ro-exec-documentation) | Official, Outdated | **Warning**: Google flags the site as harmful
-| [Script-Ware](https://web.archive.org/web/20220421142618/docs.script-ware.com/the-script-ware-api) | Official, Archived | Navigate through site using `Open Link in New Tab` only,<br />otherwise you might not get redirected.<br />If that still doesn't work -<br />try removing `web/allnumbers/` from the link then pressing `ENTER` |
+| [Script-Ware](https://web.archive.org/web/20220421142618/docs.script-ware.com/the-script-ware-api) | Official, Archived | Navigate through site using `Open Link in New Tab` only,<br />otherwise you might not get redirected.<br />If that still doesn't work -<br />try removing `web/allnumbers/` from the link and then pressing `ENTER` |
 | [Sentinel](https://luau.github.io/Executor-API-Docs/Sentinel) | Unofficial, Archived | Author: greenmangaming.com ([Github](https://github.com/greenmancode), [Discord](https://discordapp.com/users/577282206079385610))
 | [Sentinel V2](https://web.archive.org/web/20230711121750/gist.github.com/greenmancode/b0502e93c08190250d2278a545253d9c) | Unofficial, Archived | Author: greenmangaming.com ([Github](https://github.com/greenmancode), [Discord](https://discordapp.com/users/577282206079385610))
 | [SirHurt V4](https://www.sirhurt.net/login/API.html) | Official
@@ -98,4 +98,4 @@ Also, you can use this site https://archive.softwareheritage.org/browse which ar
 | Site | Description | Notes
 | :- | :- | -
 | [UMF](https://github.com/luau/SomeHub/wiki/Universal-Method-Finder) | Universal Method Finder.<br />We ***strongly recommend*** trying it out instead of using the classic `local clipBoard = setclipboard or toclipboard or set_clipboard or (Clipboard and Clipboard.set)` notation. It will make your developer life easier :fire: | Authors: Us :grin:
-| [UNC](https://github.com/unified-naming-convention/NamingStandard) | Unified Naming Convention | Authors: Script-Ware Devs
+| [UNC](https://github.com/RyXeleron/NamingStandard) | Unified Naming Convention | Authors: Script-Ware Devs
